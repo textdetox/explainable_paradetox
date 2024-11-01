@@ -8,6 +8,6 @@ For each language, we collected parallel text detoxification pairs with toxic<->
 
 **Task 3: Toxicity Check**: Finally, we check if the annotators succeeded in removing toxicity.
 
-For more details about annotators demographic and other details, please, refer to our manuscript.
+For all new languages, we, firstly, provided the English instruction. For Chinese and Amharic, the experts adapted the instruction for their language. For Hindi and Arabic, the experts and native speakers oriented on the English instructions.
 
-For Hindi and Arabic, the experts and native speakers oriented on the English instructions.
+For more details about annotators demographic and other details, please, refer to our manuscript.
