@@ -1,0 +1,995 @@
+Sentence,Toxicity Level,Tone,Language,Implied Sentiment,Negative Connotations
+"Хорошая девочка. Как несколько нормальных женщин с утра повидаете, так по другому рассуждать начнёте.",Medium,condescending,informal and judgmental,patronizing,"нормальных женщин, по другому рассуждать"
+Только тебя именно там не хватало,Medium,sarcastic,informal,dismissive,не хватало
+Ещё бы крест поставила,Medium,sarcastic,informal and sarcastic,negative,none
+"Да мне все равно, кто вам что позволяет",Low,informal,dismissive,neutral,none
+Вижу этого бритого - ставлю минус. Чего и всем здравомыслящим людям желаю,Medium,dismissive,colloquial and informal,negative,"бритого, минус"
+"И наверное написав такую ерунду, ещё и гордый ходит",Medium,sarcastic,colloquial and critical,disdainful,ерунду
+тебе не все равно,Low,neutral,informative,neutral,none
+С чего тебе смешно!?,Medium,aggressive,conversational,challenging,смешно
+каска нужна для людей...сами понимаете для каких...,Medium,ambiguous,informal and suggestive,dismissive,none
+Так ты чьих будешь?,Low,inquisitive,colloquial,neutral,none
+сперва прочитайте где я отвечал где писал а потом ставьте микрофон администрация блин,Medium,frustrated,direct and informal,annoyed,блин
+"Да убирайте эту женщину с сайта, надоела, когда она только покинет салон этого автомобиля",High,hostile,colloquial and aggressive,frustration,"убирайте, надоела, покинет"
+"Так глупых людей в поля надо, надоели уже",Medium,frustrated,informal and derogatory,resentful,"глупых, надоели"
+"Президента ругаете, а выплат ждёте",Medium,critical,informative,disapproving,ругаете
+"Да там даже по очереди не нужно, один бы улетел в нокаут, остальные бы убежали.",Medium,informal and aggressive,colloquial and combative,violent,"нокаут, убежали"
+Какой человек придумал такие задачи!,Low,surprised,informal,frustration,none
+"Ты пишешь фи, наоборот-красота",Low,informal,conversational,playful,фи
+да отстаньте со своим вирусом,Medium,dismissive,conversational and informal,frustrated,"отстаньте, вирусом"
+"Города волнуются, а вы держитесь за одного. Людей недовольных миллионы, а вы тут несёте чушь",Medium,critical,colloquial and confrontational,frustrated,несёте чушь
+"Я всегда с клепками беру , чтобы не заморачиваться и никуда не ездить",Low,informal,casual,convenience,none
+убил человека и в данный момент отрицает свою вину,High,serious,accusatory,negative,"убил, отрицает"
+У пеня это регулярно в рекомендуемых вылезала,Low,informal,colloquial,neutral,none
+"Это вам нужно уезжать из Питера, и быстро.",Medium,forceful,directive,urgent,"уезжать, быстро"
+А он все не успокаивается.,Low,informal,casual,frustration,не успокаивается
+Нужно Россию присоединить к Белорусии лучше бы было,Medium,provocative,informative and biased,nationalistic,none
+Посадить бы его на 12 тысяч и посмотреть как бы себя тогда повёл,Medium,confrontational,derogatory and aggressive,hostile,посадить
+Если люди эти маски брюликами украшают да по сто пятьдесят покупают можно и по пятьдесят продавать,Low,informal,conversational and critical,sarcastic,none
+"а может быть, тебя, вместе с такими как ты, просто игнорировать?",High,sarcastic,dismissive,disrespectful,игнорировать
+И бонус реклама Яндекс доставки,Low,neutral,informative,positive,none
+и почему уася так слезно выпрашивает?,Medium,sarcastic,informal and dismissive,irritation,"уся, слезно, выпрашивает"
+"Вы обсалбтно правы. Панику подняли из-за одного человека, что эти люди плохие, а этот человек завалить сразу троих, их это не беспокоит.",Medium,critical,informal,negative,"плохие, завалить"
+жириновский предал фургала,Medium,accusatory,informative and direct,negative,предал
+Плохой режиссёр у собаки лапы связаны,Medium,sarcastic,informal and critical,disparaging,Плохой
+кому то было невесело ...тем кто упразднил эту практику ..,Low,neutral,casual,disapproving,"невесело, упразднил"
+"Человек который говорит о нем такое,не точто быть президентом, но и находиться в этом государстве не имеет права",High,condemnatory,accusatory and confrontational,hostile,"не точто, не имеет права"
+Зомбированная толпа людей. Ещё и агрессивных,High,derogatory,informal,negative,"Зомбированная, агрессивных"
+бедный ребёнок я представляю какая у него ненависть к родителям.,Medium,sympathetic yet accusatory,colloquial,negative,"бедный, ненависть"
+А где ты денег столько взяла?,Medium,informal,inquisitive and accusatory,suspicious,взяла
+только человек без морали мог так сказать о целом народе !,High,condemnatory,accusatory and critical,disapproving,человек без морали
+Они защищают бандитов 90 - х,Medium,accusatory,informative,negative,бандитов
+Зачем вы такое пишите? Мне интересно в каком месте можно смеяться? Зачем вы трогаете религию?,Medium,inquisitive and accusatory,informative and questioning,concerned,трогаете религию
+Наказывайте всех кто нарушает общественный порядок,Medium,authoritative,commanding and instructive,strict,"Наказывайте, нарушает"
+"Какая форма, какая маска, совсем с ума сошли?",Medium,sarcastic,colloquial,annoyed,совсем с ума сошли
+"Устала, это-ж надо так загнаться то, ну кому это нужно то все?",Low,informal,conversational and expressive,frustration,загнаться
+"и что за травля автора, если она сама не умна",Medium,accusatory,informal and derogatory,negative,"травля, не умна"
+"Домой её срочно, надоело на это все смотреть.",Medium,impatient,informal,frustration,"срочно, надоело"
+"у тебя мамы нет,ласковое слово жалко!",Medium,sarcastic,derogatory,negative,"нет, жалко"
+"Вчера сосед к себе в однушку двух ламантинов принёс, не знаю что делать, полицию вызывать, хорошо закон скоро появится",Low,informal,narrative and conversational,frustration,полицию
+"а казну пополнять то,надо! не даром выплаты на детей были!!!",Medium,sarcastic,informal and critical,negative,"надо, не даром"
+"когда этот пустослов старый покинет кресло , как он уже приелся. Вцепился в это корыто, позорник",High,aggressive,colloquial and insulting,negative,"пустослов, приелся, вцепился, корыто, позорник"
+Вот такие как ты за него и голосуют,Medium,derogatory,informal and critical,negative,такие как ты
+когда это прекратиться что нам делать вы считывают пусть значит свет дорожает а его не бывает .,Low,frustrated,informative,complaining,дорожает
+вас три женщины в этом обсуждении верят в ковид!,Low,informal,informative,neutral,none
+"Завидуйте молча, а то пишите неприятные вещи",Medium,hostile,directive and adversarial,critical,"Завидуйте, неприятные"
+"Свое лицо подставляешь, что бы денег получить. Смотри может не получиться",Medium,critical,informative and slightly aggressive,caustic,подставляешь
+этого надо было прямо на месте наказать!!!!!,High,aggressive,informal and intense,angry,наказать
+Я прививаться не буду,Low,assertive,informative and neutral,resistant,none
+"И ломают все вокруг не они, глупцов хватает в жизни.",Medium,informal,conversational and expressive,critical,глупцов
+Ну и какая мама купит это своему ребёнку.,Medium,scornful,conversational and rhetorical,disapproving,none
+"одно дело сосед не так поступает,а другое,когда тебя преднамеренно угнетает властный человек",Medium,critical,assertive,critical,"преднамеренно, угнетает, властный"
+"Пишешь ни о чем, лишь бы масла в огонь прыснуть",Medium,critical,colloquial,negative,"ни о чем, масла в огонь"
+ему не стыдно стыдео быть человеком которые на лайках наживаются,Medium,disparaging,critical and judgmental,negative,"не стыдно, наживаются"
+Ты уже пошёл в атаку....твой взвод идёт следом? или ты в разведку вышел?,Low,inquisitive,conversational,curiosity,none
+Россия много лет пользуется результатом производства этих людей,Low,neutral,informative,neutral,none
+"Актер может и не плохой,но плох как человек",Medium,critical,informative and negative,disparaging,"плохой, плох"
+"Проснулся, иди на укол",Medium,commanding,direct and imperative,authoritative,none
+пусть забирает свое и уходит,Low,imperative,informative and directive,dismissive,none
+"откуда вообще взяли этого кашаи, кто это человек такой, в своей стране он не нужен, а нам он зачем?",High,aggressive,derogatory and dismissive,negative,"вообще, не нужен, зачем"
+Неужели ещё есть такие люди? Да пусть хранит Бог вашего президента и вас вместе с ним,Medium,sarcastic,informative and dismissive,negative,такие люди
+"Кто-то же снимает, понятно что взрослый, это его или ее нужно наказать",Medium,assertive,blunt and directive,critical,наказать
+только что это за голоса за кадром?,Low,curious,inquisitive,neutral,none
+"А, я нашел-видос сверху. Да, получаетая что загорелось и подъезды сильно разрушило, но здание не разрушилось полностью",Low,informative,conversational,neutral,"загорелось, разрушило"
+"Не думаю, с его лишним весом 16 оппозиционеров ему не заменит, пятерых максимум",Medium,critical,informal and judgmental,dismissive,лишним весом
+"Глупым человеком прикинулся: то помнит, то не помнит.",Medium,sarcastic,colloquial,dismissive,Глупым
+"Господи, как жалко детей которые страдают из за таких людей!",Low,compassionate,emotional and subjective,sympathetic,"страдают, таких людей"
+Ещё открывает свой рот,Medium,disdainful,colloquial,negative,открывает свой рот
+"Не стоит раздувать войну с братским народом, за это надо наказывать.",Medium,directive,opinionated,critical,"войну, наказывать"
+их. действительно. убили. вопрос кто. которые увласти.все. которые. сидят в думе.,High,accusatory,informative and speculative,aggressive,"убили, увласти, сидят в думе"
+"путин! ты президент!, какой страны?",Low,informal,conversational and questioning,curious,none
+Он отменил пособия на детей матерям одиночкам,Medium,formal,informative,critical,отменил
+"Сколько вышло на улицу проплаченных людей, лишь бы не работать!",High,accusatory,colloquial and inflammatory,negative,"проплаченных, не работать"
+"Зачем нервировать животное? А когда она укусит этого человека, то разорется, что обезьяна виновата",Medium,critical,conversational and judgmental,disapproval,"нервировать, укусит, разорется, виновата"
+это глупо ! так нельзя .,Medium,assertive,informal,negative,"глупо, нельзя"
+"Они смешные и милые, а Стас ведёт себя не достойно и тем отталкивает.",Medium,judgmental,colloquial and critical,negative,"не достойно, отталкивает"
+С чего бы это в эсэсэре был коммунистический режим? В этом и юмор,Low,sarcastic,informal,critical,none
+"даааа, время идёт, а странных людей, все больше и больше.....",Medium,sarcastic,casual,negative,странных
+Почему ты всех цепляешь?,Medium,interrogative,colloquial,confrontational,цепляешь
+Это не отец,Low,neutral,informative and direct,neutral,none
+вам не угодишь.,Medium,frustrated,colloquial,negative,не угодишь
+"вы будете говорить о том кто как сдулся, лег, не встал, встал, но не так",Medium,informal,colloquial and critical,disapproving,"сдулся, лег, не встал, не так"
+Что здесь смешного?,Low,inquisitive,colloquial,curious,none
+ты чего так обзываешь участников этой группы может сам такой,Medium,confrontational,informal and accusatory,negative,"обзываешь, сам такой"
+Вы что с ума сошли?,Medium,aggressive,colloquial,negative,с ума сошли
+Потом сам канализацию будешь чистить.,Medium,aggressive,informative and direct,frustration,канализацию
+а современным тем более все равно на интересы нашей страны,Low,neutral,informative,indifferent,none
+Стоит ли так реагировать на человека не в себе?,Medium,questioning,neutral,critical,не в себе
+Его нужно исключить из всех турниров.,Medium,assertive,directive and negative,exclusionary,исключить
+"видать, неслабо тебе забашляли ефремовские родственнички, или дружки, если ты так старательно заступаешься за него.",Medium,sarcastic,informal and accusatory,critical,"неслабо, забашляли, родственнички, дружки"
+"Молодец!!! Наказала этих людей. А то что судят, то это толерантность",Medium,sarcastic,conversational and critical,disapproval,"наказала, судят"
+потому что в думе сидят такие люди и таких же людей хотят выростить,Medium,critical,colloquial,negative,"такие люди, хотят выростить"
+"Он хотел полит убежище получить, а полицейские не дали, ну ничего может в 2021 получится.",Low,casual,informative and neutral,hopeful,none
+я смотрю это группа людей все забайкалье запугало,Medium,critical,opinion,negative,запугало
+а щас бегают с этой демократией.,Medium,informal,sarcastic,negative,"бегают, демократией"
+"надо было не арестовывать, а отправлять в спец места для лечения",Medium,critical,directive,disapproving,спец места
+"зачем фейк распространять ?это ролику 100 лет,нужно думать",Medium,dismissive,confrontational,critical,фейк
+как они живут после этого.,Low,neutral,informative and curious,neutral,none
+"даже вголове неукладывается, что есть такие девушки",Medium,disparaging,conversational,negative,"неукладывается, такие"
+вот ты первый провокатор и провокационные вопросы задаешь,Medium,accusatory,colloquial and confrontational,critical,"провокатор, провокационные"
+100000 человек пришло к Белому дому в Вашингтоне.,Low,neutral,informative and factual,neutral,none
+А нас наши умники из министерств по западным шаблонам учить надумали,Medium,sarcastic,informal and critical,negative,"умники, западным шаблонам"
+это какой человек такое придумывает,Medium,condescending,critical and informal,disapproval,"какой, придумывает"
+"ему бы там пожить. продумано до мелочей, как угробить людей за 10 жизни.",High,cynical,derogatory and inciting,aggressive,угробить
+"Люди едут повыделываться, а люди погибают.",High,accusatory,emotive and critical,negative,"повыделываться, погибают"
+"Зашёл на сайт с играми, выбрал с весёлой картинкой, а там вместо игры такая ерунда.",Low,informal,conversational,disappointed,ерунда
+Ты сама то что сделала? Ничего ты не сделала,Medium,accusatory,informal and confrontational,critical,ничего
+им все равно на ваше мнение,Medium,dismissive,informative and direct,indifferent,все равно
+"меня просили в комментариях - ну так и ответь в комментариях, докопались повсюду",Medium,informal,informative,frustration,докопались
+"у нас своих плохих людей хватает. пускай полиция старается лучше работать, а не бездействует",Medium,critical,informative and assertive,discontent,"плохих, бездействует"
+выспались и не знают за что апладировали,None,neutral,informative,casual,none
+Вот так до людей быстрее доходит.,Low,informal,direct and colloquial,slightly condescending,none
+Не могла найти где тебе написать,Low,informal,informative and neutral,concerned,none
+наградить грамотой? !! этого представителя либеральной партии!!!!,Medium,sarcastic,informal and derogatory,critical,либеральной партии
+Как можно так?!,Low,informal,neutral,frustration,none
+Да конец пришёл нашему легендарному заводу,Low,melancholic,informative and neutral,negative,конец
+Ты ленивый. жена ему не такая,Medium,accusatory,informal,disapproving,ленивый
+Тебя это волновать не должно,Medium,assertive,directive,dismissive,волновать не должно
+люди убедительная просьба не обращать на эту женщину внимания.,Medium,formal,directive,dismissive,none
+"Он поработал народ, который в него верит",Medium,critical,inflammatory,negative,поработал
+Как те которые потратили много денег на ручку которая может писать в невесомости если можно было взять карандаш,Low,neutral,informative,critical,none
+"конечно глупо, но мне жаль этих доверчивых людей, а аферистов которые в основном обманывают стариков нужно наказывать",Medium,concerned,informative and critical,empathetic towards victims and condemning towards fraudsters,"глупо, аферистов, обманывают"
+"эту женщину надо судить,потому что она является плохой матерью",High,accusatory,critical,negative,"плохой, судить"
+Нет на что смотреть,Low,neutral,informative and neutral,dismissive,none
+"чудо, с чего ты взял что, россия была процветающей в начале 20 го века...",Medium,informal and sarcastic,conversational and critical,disbelieving and dismissive,чудо
+На корню надо это пресекать,Medium,assertive,directive and serious,urgent,пресекать
+"Этим людям я оказалась очень нужной! А я сказала, что мне все равно",Low,informal,neutral,disinterested,все равно
+"прошу прощения, но вы просто не особо умный, если задаете такие вопросы.",High,condescending,harsh and critical,disrespectful,не особо умный
+Все мои аргументы были заглушены визгом,Medium,frustration,descriptive,negative,"заглушены, визгом"
+Одним словом нищие которые последнее доедают,High,derogatory,informal and offensive,dismissive,"нищие, доедают"
+"Не, по феминистски это когда некрасивые женщины снимаются, так что не прокатит в данном случае",High,dismissive,colloquial and hostile,derogatory,"феминистски, некрасивые"
+"проблема не выбить дурь из макак, а получить прибыль",High,derogatory,informal and provocative,negative,"дурь, макак"
+"Эх, как мы могли потерять свою свободу",Low,reflective,contemplative,regretful,потерять
+Да ты просто не прав! О чём можно с тобой общаться!,Medium,dismissive,confrontational and disrespectful,negative,"не прав, О чём можно с тобой"
+и ты меня хочешь чему то учить ?,Medium,sarcastic,informative and neutral,dismissive,none
+Сидишь и тусуешь!!! Просто нет слов,Low,casual,informal,neutral,none
+"то ,что у нас президент ужасен и нелеп, виноват не народ, а та личность которая была президентом до него...",Medium,critical,conversational and accusatory,blaming,"ужасен, нелеп, виноват"
+Какая жестокая... а родители снимают на камеру... нет бы наказать!,Medium,critical,conversational,disapproving,"жестокая, наказать"
+Что за глупости? К чему ты призываешь?,Medium,aggressive,interrogative and dismissive,negative,"глупости, призываешь"
+веришь во что-то - верь и остальным не навязывай,Medium,disapproving,directive,critical,навязывай
+А вас это очень волнует?,Low,inquisitive,neutral,neutral,none
+Причём тут ваши шишки?,Low,questioning,informal and colloquial,slightly dismissive,none
+что в думе их надо на прожиточный минимум посадить и на вечно,Medium,aggressive,critical and directive,hostile,"посадить, вечно"
+"Вот такие мнения и создают мнение,что сосед плохой, компромисса нет",Medium,critical,opinionated and accusatory,negative,"плохой, компромисса нет"
+К стенке таких людей нужно ставить и другие сразу задумаются!!!,High,aggressive,commanding and hostile,violent,"К стенке, нужно ставить"
+народ опущен ниже некуда а вам фонтаны и голубые береты.,Medium,critical,colloquial and expressive,disapproving,"опущен, ниже некуда"
+Яе ты врешь 90и уж не народ начал драку а полиция пыталась разогнать митинг,Medium,accusatory,colloquial and confrontational,defensive,"врешь, драку"
+Сказала то о чем незнаешь,Low,neutral,informative,neutral,none
+Музыки б ещё не было,Low,neutral,colloquial,resigned,none
+а какой национальности этот киркоров филипп всем просто все равно!!!,Medium,dismissive,informal and casual,indifference,none
+"Был о якутах лучшего мнения. Возможно, тюрская кровь культура играет свою роль. Буряты якуты.",Medium,judgmental,informative,critical,тюрская кровь
+Нашёлся тут интеллигент,Low,sarcastic,derisive and informal,condescending,интеллигент
+надоели эти люди уже пора про них забыть,Medium,dismissive,informal,negative,"надоели, забыть"
+Этот человек получил по заслугам,Low,neutral,informative,neutral,none
+"чем бы дитя не тешилось, лишь бы не плакало! дегтярев, куда ты полез?! народ недураки, все вам вылезет!",Medium,informal and critical,colloquial and accusatory,disapproving,"недураки, вылезет"
+"оскорбление чести матери, это не может остаться безнаказано",Medium,serious,emphatic,stern,"оскорбление, безнаказано"
+"Ещё одним театром, плохие люди завладели",Medium,negative,colloquial and critical,discontent,плохие люди
+Зачем с таким жить?,Medium,dismissive,informal and critical,negative,none
+этого человека бесплатно выучили в ссср!,Low,neutral,informative,neutral,none
+"раньше всё в бункер уходило, щас сделали, что не уходит, сторожи теперь сиди богатство :-d ",Low,casual,informative and conversational,neutral,none
+Возмездие не за горами,Medium,assertive,dramatic,threatening,возмездие
+Убрать его из депутатов. И вообще разогнать всю думу,Medium,aggressive,commanding and critical,discontent,"убрать, разогнать"
+"Вот как нервничает этот Ушаков... Оказывается, ему кажется, что его отношение ненаказуемо.",Medium,derogatory,"mocking, evaluative",disdainful,"нервничает, отношение ненаказуемо"
+нам в россии они не нужны,Medium,informal,assertive and dismissive,negative,не нужны
+"Это просто невозможно. Как же так,?",Low,frustrated,emotional,negative,невозможно
+Кто это придумывает?,Low,inquisitive,informal and neutral,curiosity,none
+Поговори у меня тут,Medium,commanding,colloquial and confrontational,irritation,Поговори
+вот они и долетались,Medium,sarcastic,colloquial,disdainful,долетались
+стас многим неугодил,Medium,neutral,informal and neutral,critical,неугодил
+"Не надо руку поднимать на благородное создание, а сам он нехороший человек",Medium,disapproving,colloquial and judgmental,negative,нехороший человек
+дак и нечего лезть ко всем .....,Medium,informal,confrontational and dismissive,negative,лезть
+пусть сам едет отсюда,Medium,dismissive,informal,negative,отсюда
+и что же ты тут делаешь и кого ищешь !!!!! :d,Medium,confrontational,informal and questioning,suspicious,none
+"ну и славу богу что этого больше не будет, совёнок",Low,casual,colloquial and dismissive,relief,none
+"Какой-то человек, прикрепил кота к подстилке, хозяева уже совсем того",High,informal and accusatory,emotionally charged,negative,"совсем того, прикрепил кота"
+Что вас держит возле таких плохих людей?,Medium,inquisitive,somewhat critical,disapproving,плохих
+"хоть и не умная, но очень красивая девушка",Medium,disparaging,informal,negative,не умная
+"Не голосуйте за них, всю страну распродали",Medium,admonishing,directive and critical,disparaging,распродали
+Такое враньё я читаю впервые! На кого рассчитана эта чушь?,High,aggressive,colloquial and confrontational,negative,"враньё, чушь"
+зизу пусть монако или марсель сделает чемпионом...вранье ребят..,Medium,informal,informative and critical,negative,вранье
+А кто то за этих людей жизнь отдавал,Low,reflective,informative and neutral,thoughtful,none
+"Ну да, бедным людям в Москве не место",High,dismissive,colloquial and judgmental,hostile,бедным
+да как носит таких людей на земле.,Medium,critical,conversational and judgmental,disapproving,таких людей
+это у нас китайцы всё воровали и за своё выдавали,High,accusatory,colloquial,negative,воровали
+не разрешать ему больше судить матчи,Medium,directive,authoritative,negative,"не разрешать, больше"
+Он позорит честь настоящих мужчин,Medium,accusatory,negative and judgmental,critical,позорит
+"Во-вторых, мой маленький, то, что покупается - это в основном капитальные вложения, и на прайс конечного товара влияет постольку-поскольку",Low,informal,informative,neutral,none
+"Таких, как он сейчас очень много! И ни одного предателем не называют, всю страну растащили.",Medium,accusatory,informative and derogatory,critical,"предателем, растащили"
+Ему нужно дать пожить на прожиточный минимум,Medium,critical,casual,resentful,прожиточный минимум
+"Согласен, они плохие люди, но тогда кто наши министры здравоохранения, врачи, власть, которая идёт на поводу них?",Medium,questioning and critical,informal,critical,плохие люди
+"Молодые ищут приключений, хотят порулить, не осознавая всей ответственности.",Low,informal,neutral and colloquial,slightly critical,не осознавая
+так с ними и надо поступать,Medium,assertive,colloquial and direct,disapproving,поступать (in a negative sense)
+"Всё, мне лениво с тобой бакланить",Medium,dismissive,colloquial,negative,"лениво, бакланить"
+.....в городе должно быть чисто и спокойно.....,Low,neutral,informative,positive,none
+Завидно ну сделайте так,Low,casual,neutral,indifferent,none
+Ну прям ужас какой,Medium,casual,emotional and informal,negative,ужас
+"и причем ваша форма ребята. то, что творят полицейские это касается только тех, которые поднимают руку на народ.",Medium,critical,informal and opinionated,disapproving,"творят, поднимают руку"
+трое таких персонажей меня (думаю) до сих пор клянут.,Medium,critical,conversational,negative,клянут
+Самых плохих их студентов отправляли работать с русскими.,Medium,judgmental,critical and discriminatory,negative,плохих
+На эстраде редко встречаются настоящие таланты,Low,informative,neutral,critical,none
+"Это что стих про них что ли? Это они диванные бойцы, которые в интернете пишут? Вы с ума сошли?",Medium,informal and accusatory,conversational and critical,dismissive,"диванные бойцы, Вы с ума сошли"
+Он же официально беженец в Европе,Low,informative,formal,neutral,none
+"Сами превращаете интернет в непойми что, сами же за это и получаете",Medium,accusatory,colloquial and critical,negative,непойми что
+"Выйди из группы, что же вы все профессию родителя взяли",Medium,informal and critical,directive and dissatisfied,frustrated,"выйди, взяли"
+"Эти господа ловили бы преступников, как и дед сказал",Low,neutral,informative,respectful,none
+главный человек года уханя повар из полицейский из миннеаполиса сварщик из бейрута президент минска из d,Low,neutral,informative,neutral,none
+Плохой человек не думает что однажды и к нему отнесутся плохо,Medium,judgmental,informative and neutral,critical,"Плохой, плохо"
+Зачем вообще таких на застолье приглашать.,Medium,informal,dismissive and critical,negative,таких
+Наказать за такое выступление,Medium,authoritative,judgmental and critical,disapproving,Наказать
+"Уходите с Хабаровска, со всего Дальнего Востока",Medium,demanding,directive and imperative,negative,уходите
+"Нагуляется, вспомнит что есть муж и дети. Таким женщинам хватает совести на все",High,sarcastic and judgmental,colloquial and disapproving,condemnatory,"нагуляется, совести, таким женщинам"
+"Слушай, ты это ещё 20 раз напиши !!!",Medium,commanding and sarcastic,informal and imperative,irritation or annoyance,none
+эти олигархи в думе знают что в стране есть детские дома и дома престарелых?! или уже все уничтожили?!....,Medium,critical,informative and accusatory,angry,"олигархи, уничтожили"
+Вспомним самые светлые годы СССР и противостояние с Америкой,Medium,nostalgic,reflective and patriotic,"positive towards USSR, adversarial towards America",противостояние
+У Батикова тоже веселья хватает,Low,casual,informative and neutral,positive,none
+да и попугаи как раз в данном случае толпа пьяных дебоширов,Medium,informal,colloquial and derogatory,negative,"толпа, пьяных, дебоширов"
+не приписывай другим свои памятные достижения!!!,Medium,informal,accusatory and imperative,negative,приписывай
+Я в шоке неужели вот эта не чувствует что у неё разрез по самую нк хочу,Medium,disrespectful,colloquial and judgmental,critical,"шоке, не чувствует, разрез"
+"А ты, что 41 й год помнишь? Сколько ей заплатили, чтобы она такую информацию произносила?",Medium,sarcastic,informative,skeptical,заплатили
+протрезвел- одумался ? теперь будет выкручиваться пока адвокаты будут с него деньги тянуть ?,Medium,sarcastic,informal and critical,negative,"протрезвел, будет выкручиваться, деньги тянуть"
+"Дынин Александр, это твой пост? Тебя за такое наказать надо",Medium,accusatory,informative and assertive,critical,наказать
+"уахаха, человек, ты гений.",Low,mocking,informal,sarcastic,none
+Автор повторяет слово русские много раз,Low,neutral,informative,neutral,none
+на металлолом. ни себе ни людям. какие же казахи хитрые,High,aggressive,derogatory,negative,хитрые
+"вы же считаете фургала преступников,а людей хабаровска глупыми людьми, хотя тоже лично незнакомы.",Medium,accusatory,colloquial and critical,negative,"преступников, глупыми"
+Звезду героя превратили непонятно во что. Звания героя раздают своим. Куда катится страна,Medium,critical,emotive and informal,disapproval,"непонятно во что, раздают своим, катится страна"
+да какой-то сидит и выставляет её фотки,Low,casual,informal and neutral,slightly annoyed,сидит
+я в шоке с них,Low,informal,expressive,surprised,none
+"Они никак не поймут, что кошки самые чистые существа на планете",Low,frustration,informative,critical,никак не поймут
+"Террористов истребляют хорошо, а коррупцию ну такая трудная задача!!!",Medium,critical,informative and frustrated,frustration,"Террористов, истребляют, коррупцию, трудная"
+"опека зря получает зарплату и ПНД не нужна, не умеют работать",High,critical,informative and negative,negative,"зря, не нужна, не умеют работать"
+Яб сказал:хорошо что ты водила маршрутки!,Medium,sarcastic,colloquial,condescending,хорошо что ты водила маршрутки
+"не понимаю, вас клонируют где-то что-ли?",Medium,sarcastic,informal and dismissive,negative,"не понимаю, клонируют"
+сидишь в своей латвии и сиди нечего нос сунуть в чужую страну.,Medium,dismissive,colloquial and confrontational,hostile,чужую
+"скорее всего мы видим самый конец астронавтики Америки, как и самого этого государства",Medium,pessimistic,opinionated and speculative,negative,"конец, самого этого государства"
+она как будто дар речи потеряла,Low,informal,conversational,neutral,потеряла
+"И опять метлы, помидоры и подарки. Снова теплицы, столярку, котлы. Надоели.",Low,informal,expressive and neutral,frustration,Надоели
+"2 человека чушь рассказывают судьям, а теперь их слушают",Medium,informal,conversational and critical,disdainful,чушь
+"любой человек не заслуживает доверия , и не важно хорошо нам или плохо .",Medium,cynical,informative and neutral,negative,не заслуживает доверия
+"Я знаю про крутую грузинскую культуру, которую вы, судя по всему, нагло украли в свое время",Medium,accusatory,informative and argumentative,negative,"нагло, украли"
+Зачем ты это писал,Low,neutral,inquisitive,curiosity,none
+А почему в Золотом альбоме нет трека Black Стара незаслуженно Забытый трек,Low,inquisitive,informative,curiosity,none
+"Ну вот значит, что если ты не скидываеш бумагу в унитаз, то ты отдаешь свои материалы на изучение людям из зарубежных стран",Medium,sarcastic,colloquial,dismissive,ни отдаешь свои материалы
+"Очередная ложь. Глупые люди уже переводятся, все это неправда",Medium,informal,offensive and dismissive,negative,"ложь, глупые, неправда"
+"Владелец сайта, на котором нарушаются Правила этого сайта, публично выставленные, врет.",Medium,critical,accusative and direct,negative,врет
+Барса ни о чём спартак бы забил бы 6:0,Medium,critical,informal and colloquial,disparaging,ни о чём
+ваш балл уходит в пользу форума!,Low,neutral,informative,positive,none
+И нечего здесь орать что нам что-то принадлежало,Medium,aggressive,colloquial and confrontational,hostile,"орать, нечего"
+Ещё один герой нашего времени..,Low,neutral,informative,slightly sarcastic,none
+когда мы будем дышать чистым воздухом. адмистрация это к вам,Medium,critical,direct and accusatory,dissatisfaction,"адмистрация, это к вам"
+это просто кошмар а не массаж,Medium,informal,critical and subjective,negative,кошмар
+"Я из Америки,а ты из России",Low,neutral,informative and neutral,neutral,none
+"тут не про деньги говорится, а про поведение этого человека!",Medium,indignant,direct and assertive,critical,"поведение, этого человека"
+А какие то факты приводить вам смысла нет,Medium,dismissive,informative,negative,нет
+они о детях своих бы подумали что ждет их детей,Low,concerned,neutral,worried,none
+Где увлекательный рассказ про хабаровск,Low,inquisitive,informative and neutral,seeking information,none
+"в россии много проблем будет, законы у нас такие",Medium,critical,informative and subjective,negative,"проблем, законы"
+судя по твоим словам - ты точно русский.гордись собой,Medium,sarcastic,casual,mocking,гордись
+ужасно!,Medium,strongly negative,emotionally charged,negative,ужасно
+если торопитесь выезжай пораньше,Low,informative,neutral,advisory,none
+я уж точно не советский,Low,informal,subjective and informal,dismissive,none
+Дурят по всем фронтам,Medium,critical,colloquial,negative,дурят
+"Кто кормил? Путин что-ли? Налог даже с грудного ребенка, на 2 памперса помощь",Medium,sarcastic,informal and critical,disapproving,налог
+"эти либералы воду мутят, хотят Америку устроить",Medium,derogatory,colloquial and slang,hostile,"либералы, воду мутят, хотят Америку устроить"
+Телевизор лет пять не смотрю и в одноклассники это лицо появляется,Medium,informal,colloquial and emotive,annoyance,это лицо
+ты эт сталина вспомни .он 14 миллионов своих убил..,Medium,accusatory,colloquial,negative,убил
+Зачем этот палач нужен.,High,hostile,confrontational,negative,палач
+А письмецо накрапал - сущий ангел,Low,colloquial,informal,sarcastic,none
+"Как всегда сказочно рассказал, особенно про дочку, сделавшую себе вакцину",Low,sarcastic,informal,negative,сказочно
+кто собирает крышу на саморезах.кто вас учил?,Low,questioning,informative and neutral,critical,none
+а этому что надо,Medium,dismissive,conversational and slightly aggressive,irritated,надо
+у нас в семье 3 поколения там родились,Low,informal,informative and neutral,proud,none
+вот это разговоры. вы не нашли в другом месте вести такие разговоры,Medium,dismissive,informative and neutral,disapproval,нет другим месте вести такие разговоры
+Плохой человек старое кино переименовывает постоянно.,Medium,judgmental,critical,negative,Плохой
+Можно хоть один тред без политикот? давай лучше про фигуристок говорим.,Low,informal,colloquial,frustration,none
+"Ненавижу, презираю, никогда врагам не верила и не доверяла.",High,hostile,emotive and aggressive,negative,"Ненавижу, презираю, врагам, не верила, не доверяла"
+"чтобы ещё раз все убедились, в творческой среде гомосексуальность в порядке вещей",Medium,informal,informative but potentially provocative,controversial,none
+"лично я сейчас за дальневосточную республику,как 1918-1922г,сибирь,алтай,и др.проживут без москвичей,а вот они?",Medium,informal,conversational and divisive,critical,москвичей
+Начните с себя и своих детей.,Low,encouraging,directive,motivational,none
+"тебя нужно вывести за грань , ешь с рук этих учителей и рабочего класса и их -же угнетаешь.",High,accusatory,informal and hostile,critical,"вывести за грань, ешь с рук, угнетаешь"
+"В России только предлагают, но ничего не делают.",Medium,critical,informative and neutral,frustration,ничего не делают
+люди салатом делятся она про косточку,Low,informal,informative and casual,neutral,none
+Эти польские люди надоели. Везде они,Medium,informal,negative and dismissive,irritation,надоели
+"Та иди отсюда, очевидно что ты упрямец",Medium,dismissive,informal and confrontational,negative,"иди отсюда, упрямец"
+тебя бы в первых рядах на эту войну погнали,Medium,aggressive,colloquial,hostile,"войну, погнали"
+"явная цензура, 100% заказ людей с газпрома, плохая контора",Medium,critical,informal,negative,"цензура, заказ, плохая"
+"напишите нормально, вы, что не нашли что-ли?",Medium,demanding,colloquial,frustration,"не нашли, что-ли"
+"Такую резонансную точку и я могу поставить на любой конбер. Автор, ты редкосный человек.",Low,informal,neutral and slightly sarcastic,casual,редкосный
+Я глупый и не понял шутки или это спам?,Low,casual,informative,self-deprecating,"глупый, спам"
+"везде бабушки и дедушки: бабушка ездит к внукам, а дед работает, но она всегда хорошая, а дедушка плохой. Парадокс!",Medium,informal,conversational,judgmental,плохой
+этим странам необходимо признать а то деньги не получат от российских налогоплательщиков,Medium,assertive,coercive,conditional,не получат
+"спецназ мог так поступить, в одном случае-им не дали бить протестующих - как положено!!!",Medium,aggressive,informative,critical,"бить, протестующих"
+Таких людей заграницу их отправить и что бы не возвращались сюда не когда больше...,High,aggressive,derogatory and assertive,hostile,"отправить, не возвращались"
+почему не кто не видит плохой фотошоп,Low,inquiring,informal and critical,frustrated,плохой
+"Желаю всем, кто так считает на себе испытать все прелести болезни с последствиями",High,hostile,derogatory and aggressive,vindictive,"болезни, последствиями"
+А работники магазинов не хорошие люди им все аукнется,Medium,informal,derogatory,negative,"не хорошие люди, аукнется"
+Что ты тогда тут делаешь? Читай ресурсы в другом месте,Medium,dismissive,informal,unwelcoming,none
+"Я вас поддерживаю, плохие люди на передачу приходят, трудно не кричать. И Гордон и Барановская очень хорошие ведущие.",Medium,mixed,semi-formal,supportive yet critical,плохие
+"Работать нужно, а не лайки ставить.",Low,advisory,informative,productive,none
+Такие неучи как я берегут тебя с автоматом,High,aggressive,informal and confrontational,hostile,"неучи, автоматом"
+Ну так из-за этого человека большинство постов не в теме,Medium,informal,critical,frustration,"этого человека, не в теме"
+у нас есть Путин,Low,neutral,informative,neutral,none
+его бы так трясти,Medium,aggressive,colloquial,threatening,трясти
+"Это мошенничество, не верьте, обманывает, деньги ложишь, а она блокирует",Medium,accusatory,informative and cautionary,negative,"мошенничество, обманывает, блокирует"
+этот человек опять истину глаголет....,Low,sarcastic,colloquial,mocking,none
+Что за люди?Наказывать таких,Medium,judgmental,critical,disapproving,"наказывать, таких"
+"Хорошо, блокируй, но что ты хочешь от меня?",Medium,confrontational,informal and assertive,frustration,блокируй
+"Ну, посмотрел я комментарии к твоим постам, процент плохих ниже средней отметки.",Low,informal,neutral and casual,neutral,плохих
+Коммунисты всегда игнорируют такие неприятные треды,Medium,critical,informative and opinionated,negative,"неприятные, игнорируют"
+а нашим безответственным людям на верху не объяснить такое.,Medium,critical,colloquial,disapproval,"безответственным, не объяснить"
+Плохие люди,Medium,assertive,negative and generalized,disapproving,Плохие (bad)
+"А рядом просит мясников не поднимать цену на газ, а то поголовье просто падёт.",Low,informative,informal and colloquial,concerned,падёт
+Его посадить без суда и следствия,Medium,authoritative,directive and accusatory,critical,"посадить, без суда и следствия"
+"Я бы тоже не пускал, больной человек принесёт в школу туберкулёз и заразят нормальных детей",High,hostile,discriminatory and alarmist,exclusionary,"больной, заразят, туберкулёз, нормальных"
+так ты просто обманываешь людей,Medium,accusatory,informal,negative,обманываешь
+"откуда ,,, дровишки ,,,? кто тебе дал неоспоримый факт ,что россияне презирают путина ???! откуда ты такой?",Medium,hostile,colloquial and confrontational,aggressive,презирают
+"Гена, не ври... все знают, что ты в доле",Medium,accusatory,informal,critical,не ври
+"При чем дальше не читал РНЕшника глупого. Мне не стыдно, для меня быть русским не значит быть расистом",Medium,informal,assertive and defensive,defensive,"глупого, расистом"
+Придёт время отвечать придётся перед народом,Medium,admonitory,informative and formal,warning,отвечать придётся
+"примолкли все, кто батькой восхищался!поняли теперь, что это за человек!",Medium,sarcastic,conversational and critical,disapproving,примолкли
+"вот если бы наказывал за воровство подчиненных, цены бы ему не было",Medium,critical,informative,disapproving,воровство
+убил человека надо посадить пожизненно,High,severe,judicial and assertive,punitive,"убил, посадить пожизненно"
+"ты где пдд учил,который фонари хотел побить,сядь на фуру и проедь.",Medium,accusatory,informal and hostile,disrespectful,"учил, побить, сядь"
+"откуда столько в 21 веке религиозных людей, удивляюсь просто просто",Low,curious,informal and neutral,surprise,none
+философ интеллектуал не любит взрослые фильмы смотреть. О вкусах не спорят же.,Low,informal,conversational,neutral,none
+Среди умных людей - безусловно. Но стреляют в основном не такие.,Medium,sarcastic,informative and critical,dismissive,"стреляют, не такие"
+С чего это ему легче? Бери телегу и кати до машины,Low,informal,directive,dismissive,none
+"а ты покажи свои накопления, наверняка не 10 тысяч рублей",Medium,challenging,colloquial,antagonistic,навсегда не 10 тысяч рублей
+Кто вам дал право распоряжаться народным достоянием,Medium,accusatory,formal and direct,discontent,"распоряжаться, народным достоянием"
+ну может тебя вместо лукашенко?!,Medium,sarcastic,colloquial,disdainful,none
+"Администратор, кто тебя за порядком поставил следить?",Medium,confrontational,direct and informal,critical,"порядком, следить"
+Надеюсь ей все вернётся,Medium,cynical,colloquial,negative,вернётся
+отстань,Medium,dismissive,direct and colloquial,negative,отстань
+Этой забаве лет больше чем тебе,Low,informal,colloquial,dismissive,none
+"Говоришь все правильно, но мне кажется что это вранье.",Medium,sceptical,informative and neutral,doubtful,вранье
+Не показывал бы свое видео никому,Medium,dismissive,assertive,negative,никому
+этой бабке каждый месяц исполняется 100 лет. смените фотку!!!,Medium,dismissive,informal and disrespectful,negative,"бабке, смените фотку"
+"лёха из озинок, который под другую ориентацию косит",Medium,informal,colloquial and derogatory,negative,косит
+Это фото надоело,Low,informal,casual,negative,надоело
+Им ничего не платят,Low,informative,straightforward and neutral,negative,ничего не платят
+"Если мы им не скажем нет, то так и будет",Low,neutral,informative,determinative,none
+Сам такой. Драпанул из страны за лучшим куском,Medium,dismissive,colloquial,critical,драпанул
+"зачем делать добро и спрашивать хорошо или нет ,что это такое. пишут всякие",Medium,sarcastic,informal,critical,всякие
+"Так обьясняла, ещё когда беременная была, толк есть? Он опять привёз дите и уехал до ночи на работу",High,accusatory,colloquial and critical,frustrated,"толк, опять, уехал до ночи"
+Мало их обижали в армии,Medium,judgmental,colloquial and negative,sarcastic,обижают (insult)
+значит у этого дяди есть что терять? наворовал со школы у детишек..,High,sarcastic,accusatory and informal,negative,"воровать, у детей"
+"У меня вопрос, почему те кто этого некомпетентного человека выбирал не отзовут его полномочия обратно? Или он депутатское кресло купил?",Medium,critical,inquisitive and skeptical,negative,"некомпетентного, купил"
+благодаря ему ты щас пишешь ас эти коментарии,Low,informal,conversational and colloquial,neutral,none
+не надо учить меня культуре,Medium,dismissive,informative and authoritative,defensive,"не надо, учить"
+когда ты перестанешь изворачиваться,Medium,accusatory,conversational and negative,confrontational,изворачиваться
+"Ему невозможно объяснить, он как робот, которым управляют с пульта",Medium,frustrated,expressive,negative,"невозможно, робот, управляют"
+Людей Путинских больше чем вдвешников,Medium,comparative,informative,divisive,"Путинских, вдвешников"
+Ты что игрушек нашёл,Low,casual,conversational,neutral,none
+Всей толпой в церковь и свечки за его здравие. Или успокоится или у вас пропадет интерес.,Medium,sarcastic,colloquial,disrespectful,"толпой, пропадет интерес"
+"вам бы жить на этот минимум и посмотреть на вас ,как будете жить вместе с нами",Medium,sarcastic,conversational and somewhat confrontational,frustration,"минимум, посмотреть"
+"Откуда они берутся , это же надо себя на посмешище выставлять",Medium,critical,informal and expressive,negative,посмешище
+"Нужно работать, что бы получить деньги. А судьбы Белорусов не интересуют.",Medium,dismissive,informative but disregarding,negative,не интересуют
+вот пускай себе её и колит,Medium,dismissive,colloquial and aggressive,resentful,колит
+"Знаете, порой думаешь, какие злые люди среди нас живут. А ведь сказано, зло излученное тобой, к тебе назад вернуться!!!",Medium,reflective and admonishing,conversational,negative and cautionary,"злые, зло"
+развалили такую часть помню как прибыл в неё в 2005 с начало шмс а потом 4 бат,Low,reminiscent,informative and neutral,nostalgic,развалили
+"Молодец мужик, надо было и подраться с ним",Medium,informal,colloquial and aggressive,encouraging violent behavior,подраться
+Потому что эти люди уже трубопровод туда планируют протянуть,Low,neutral,informative,neutral,none
+"Для людей, кто ходят в масках и перчатках нужно закупить скафандры",Medium,sarcastic,informative and critical,negative,скафандры
+А как ты их лайками будить будешь,Low,inquisitive,conversational,neutral,none
+Ещё называются спортсмены,Medium,sarcastic,colloquial,critical,none
+Народ России снимает видео и нападает. Русский бунт.,Medium,aggressive,emotive and provocative,hostile,"нападает, бунт"
+"Лукашенко просит помощи у России, а сам поступает плохо. Нам такой друг не нужен",Medium,critical,informative and judgmental,negative,"плохо, не нужен"
+"Разницу чуешь, или мне снова разжевать? Так что нечего пытаться обелить то, что было",Medium,condescending,informative and aggressive,critical,"разжевать, обелить"
+"Единственное, что мне не нравится - надоели с ВОВ, как будто больше войн не было",Low,informal,frustrated and dismissive,annoyance,надоели
+А это её раздражает и она устраивает скандалы,Medium,dismissive,informal and critical,frustrated,"раздражает, скандалы"
+Откуда у пьющих людей оружие? Ведь даже слабым людям оружие не дают,Medium,critical,informative and judgmental,negative,"пьющих, слабым"
+а вот при нынешнем образовании молодежь слаба в знаниях.,Low,critical,informative,negative,слаба
+Какие же это плохие люди!!! Они заслуживают того же.,High,aggressive,derogatory,hostile,"плохие, заслуживают"
+"я лебедя знал лично ещё в приднестровье, он там хорошо придавил местную группировку людей из Гос.Безопасности",Medium,informal,informative and narrative,negative,"придавил, группировку"
+ПРОПУСТИЛА ГОДОВЩИНУ ПОБЕДЫ ЛИТЛ МИКС НА ИКС ФАКТОРЕ:(((( ТОЛЬКО Я ТАК МОГ,Low,informal,emotional and expressive,regretful,none
+А белоснежка не нужна? У меня их уже 3. Бэлль тоже хочу,Low,casual,conversational and informal,neutral to positive,none
+Офигеть. Они совсем в правительстве чокнулись,Medium,informal,colloquial and emotional,frustration,чокнулись
+"опять его кормить пожизненно, надоели своим мараторием от ельцина",Medium,irritated,colloquial and critical,frustration,"кормить пожизненно, надоели, своим мараторием"
+если вы не вышли замуж то уже и нечего пытаться,Medium,dismissive,colloquial and discouraging,negative,нечего пытаться
+А какие то девушки из них шубы покупают,Low,informal,neutral,casual,none
+"о рабочих профессиях надо фильмы снимать и везде агитировать, а не о предателях по всем программам",Medium,directive,critical and assertive,disapproving,предателях
+Все ты помнишь,Low,neutral,informative,neutral,none
+С квадратиками на лице тяжело жить,Low,neutral,informative,empathetic,тяжело
+"а вы упрямые, не хочу, не буду",Medium,informal,reactive and defiant,frustrated,"упрямые, не хочу, не буду"
+не позорься тут лучше.,Medium,derogatory,informal,negative,позорься
+И от такой штуки можно много до чего договориться,Low,neutral,informative,neutral,none
+"Ааа ну конечно, деньги то в Москву не попадут, останется в регионе, не порядок.",Medium,sarcastic,informal and critical,discontent,не порядок
+"Не культурный человек,два слова связать не может...",Medium,disparaging,colloquial and critical,derogatory,"не культурный, не может"
+"Вот пусть он и объясняет глупцам, ведь живёт то он по соседству, чего они к Европе и России обращаются",Medium,informal,derogatory and dismissive,critical,глупцам
+есть такая вещь называется интернет !,Low,informal,informative,neutral,none
+"Да ускакали деревянные лошадки, пароходики бумажные уплыли",Low,nostalgic,descriptive and poetic,melancholic,none
+"звонок в три часа ночи: - алло, ты спишь? - да, сплю",Low,casual,informative and neutral,neutral,none
+Его статус был понижен из-за доклада правоохранительным органам,Medium,formal,informative and neutral,negative,"понижен, доклада правоохранительным органам"
+"продают машины, Россия не может. Не может я говорю.",Medium,assertive,emphatic and critical,frustration,не может
+"Модер почисти от негатива тред, его смысл теряется в дебатах",Low,requesting,neutral,concerned,негатива
+"Если бы был, такую чушь не писал бы",Medium,dismissive,colloquial,negative,чушь
+"говорит--моя жена предложила прогуляться к метро, посмотреть",Low,neutral,informative,positive,none
+а то название напишешь так сразу какой то человек модера позовет,Low,conversational,informal and cautious,warning,модера
+"кто проедет первым, не знаю, но если ученик вбубенится в маз, то инструктор учебной машины точно получит премию года!",Medium,casual,informal and humorous,sarcastic,вбубенится
+Это же последователи президента Д. Трампа сделали.,Medium,accusatory,informative,negative,последователи
+Это кто? Несёт какую-то ерунду,Medium,dismissive,colloquial and informal,disapproving,ерунду
+Они до сих пор живы,Low,neutral,informative,neutral,none
+"покажи мне хоть одного чеченца, который моет туалеты",High,offensive,derogatory and sarcastic,discriminatory,"чеченца, моет туалеты"
+что перестали прятаться,Low,informal,casual and neutral,neutral,none
+Он мог долго заниматься любовью,Low,neutral,informative,positive,none
+"Сталина преступником объявляют фашисты, власовцы и их потомки",High,aggressive,informative and biased,condemnatory,"преступником, фашисты, власовцы"
+Для тебя любой человек который ухаживает за собой не такой,Medium,dismissive,judgmental,negative,не такой
+Это не мать,Medium,judgmental,informative,negative,not
+Он в каждой бочке затычка. Где мы его ещё увидим,Low,casual,colloquial and informal,derogatory,затычка
+"Тебе послышалось. Полицейские орали моритури те салютант, а не стой.",Medium,aggressive,informative and confrontational,dismissive,орали
+все равно что много на земле ? брошенные женщины,Medium,critical,informal,disparaging,брошенные
+Очередной развод ! Сейчас скачками побегу и куплю ящик,Medium,sarcastic,colloquial and ironic,negative,развод
+"Плохо отношусь к тем, кто пытается себя превознести. Знайте, это флаг Казахстана.",Medium,critical,informative,disapproving,"Плохо относусь, пытается себя превознести"
+"Та, что пишет, даже лицо не показывает. Все понятно",Medium,sarcastic,informal,critical,даже лицо не показывает
+Кому сказки рассказывает человек? Израиль с турками сегодня в любовь играют против Армении. Кого пытаетесь обмануть?,Medium,accusatory,emotional and confrontational,suspicious,обмануть
+мужики не обращайте внимания на этого человека,Medium,dismissive,informal and directive,disregard,человека
+Опять какую-то глупость нам толкают,Medium,frustrated,informal and colloquial,negative,"глупость, толкают"
+"А я узнаю, бойтесь",Medium,threatening,informative and aggressive,menacing,бойтесь
+Юрий на первом месте все деньги потерял глупый человек так и лезет на 1 место,Medium,critical,informal and dismissive,disapproving,"глупый, потерял, лезет"
+С вас я просто в шоке,Low,informal,expressive,displeased,шоке
+"Не надо указывать русским, что им делать",Medium,assertive,informative,defensive,"указывать, что им делать"
+Тебя сократили за пьянку и не надо ля ля что что-то закрывают,Medium,dismissive and accusatory,colloquial,hostile,"сократили, пьянку, не надо ля ля"
+"Только в отставку, вместе с правительством, одевайтесь в робу и на работу, хватит посидели",Medium,commanding,colloquial and critical,discontent,"отставку, хватит посидели"
+Че за глупец это придумал? и самое интересное под каким он психотропом был?,High,sarcastic and confrontational,informal and accusative,negative,"глупец, психотропом"
+"будь по проще,и не грей голову ответом...!!!",Medium,informal,directive,dismissive,не грей голову
+"Зачем ему ставить лайк, я с трудом даже ответил в комментариях",Low,frustrated,informal,negative,с трудом
+"не подменяйте понятия,тебя в 90 без работы ,умник",High,confrontational,informative and derogatory,negative,"не подменяйте, без работы, умник"
+Хватит нас грабить,High,aggressive,confrontational,hostile,грабить
+кто придумал эту группу,Low,informal,neutral,casual,none
+"Отойдите от моряков, не чего же плохого не сделали",Low,formal,informative and neutral,neutral,none
+Да они все здесь врут.,Medium,accusatory,colloquial,negative,врут
+Администраторы не справедливо отключили интернет ссылаясь на обрыв связи,Medium,accusatory,informative and critical,frustration,"не справедливо, отключили"
+"мой котяра садиться какать во время моего завтрака.... стукнула бы, но люблю эту животинку!",Low,casual,informal and emotive,playful,стукнула
+У кого-то есть его домашний адрес? Опубликуйте..,Medium,informal,informative and neutral,hostile,none
+"Почему бы этого человека, который выставляет себя журналистом, не закрыть?",Medium,aggressive,confrontational and accusatory,hostile,закрыть
+что хотел?,Low,informal,direct and neutral,neutral,none
+Не трать нервы на них они этого не стоят,Medium,informal,colloquial and dismissive,critical,не стоят
+Кто бы говорил!,Medium,sarcastic,informal,disapproving,none
+ну какие же люди жестокие. пусть и с вами также поступят,High,accusatory,colloquial,vindictive,"жестокие, поступят"
+как он надоел уже. когда посадят за решетку. .,Medium,frustrated,colloquial and informal,negative,"надоел, посадят за решетку"
+"хозяйка чем народ кормить собирается. умные люди учатся на чужих ошибках, а они на своих....",Medium,sarcastic,informal and critical,disapproving,ошибках
+Чтоб костями не колола!,Medium,aggressive,informal and harsh,hostile,колола
+Нет вы не правы она у меня очень достойная девочка моя только всяких нехороших людей слушает,Medium,informal,defensive,protective,нехороших
+Умник такое впечатление что сейчас вся полиция похожа на этого красавца,Medium,sarcastic,colloquial,negative,"умник, красавца"
+Гетте самый известный человек в группе,Low,neutral,informative,positive,none
+"Писать научись правильно, тогда и лайкать будет не стыдно.",Medium,sarcastic,colloquial and critical,disapproving,не стыдно
+я бы сказал так: надо гнать всех депутатов,Medium,aggressive,informative and hostile,critical,гнать
+надейся и верь! это все что тебе осталось!,Medium,imperative,direct and emotional,despair,осталось
+"Они поддерживали свой народ, они националисты, ты забыл? Путина они не поддерживали",Medium,informal,accusatory and assertive,defensive,"националисты, не поддерживали"
+кто придумал-это глупость....того надо наказать!,Medium,aggressive,disparaging,hostile,"глупость, наказать"
+С которым через час расстанешься и встретишь другого?,Medium,cynical,colloquial and insinuating,disapproving,расстанешься
+К своей башке приставил бы,High,aggressive,colloquial and hostile,violent,приставил
+Договоритесь до того что россия отвернётся и вас съедят,Medium,aggressive,informative and cautionary,threatening,"отвернётся, съедят"
+И что это ? скажем так то что твориться в россии просто ужас!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Medium,frustrated and critical,informative and expressive,negative,ужас
+"Мне без разницы, как и что ты называешь",Low,informal,neutral,indifferent,none
+девушка за рулём ну да мы же забыли папина дочь за рулём им же всё можно....,Medium,sarcastic,colloquial and mocking,disapproving,"забыли, папина дочь, им же всё можно"
+да и пусть идет туда,Low,casual,informal,dismissive,none
+"Весь мир видел, много свидетелей, а он сервер изнашивает, ну не надо из людей таких же делать каким сам является",Medium,accusatory,informative and critical,disapproving,"изнашивает, делать каким сам является"
+Не нужно портить города ненужным старьём.,Low,directive,informative and neutral,disapproval,"портить, ненужным старьём"
+"эх ты, получается это я бухал и не появлялся дома по две недели.",Medium,informal,colloquial and emotional,guilty,бухал
+"Не уважаю мужиков, которые обещают и не выполняют, одним словом не мужик",Medium,disapproving,judgemental,critical,"Не уважаю, не выполняют, не мужик"
+"Если этот человек ничего не помнит, то это его не освобождает от ответственности",Low,formal,informative and assertive,neutral,none
+"Ужас какой то.Дети без матери, отец глупый в тюрьме",Medium,informal,expressive and emotional,negative,"ужас, глупый, тюрьме"
+почему он до сих пор не в бане?,Medium,inquisitive,informal and slightly aggressive,frustration,"бан, до сих пор"
+Американцы считают себя хозяевами земли,Medium,disparaging,judgmental and accusatory,critical,хозяевами
+Не наглейте!!! Я сейчас еще в службу поддержки напишу на вас не хорошие люди,Medium,aggressive,colloquial and confrontational,hostile,"наглейте, не хорошие люди"
+Самое глупое - это невозможность удалить все оставленные где то комментарии,Low,frustrated,informative,negative,"глупое, невозможность"
+"Сейчас так говорит. До власти добираются,другие люди становятся",Medium,critical,informative and opinionated,skeptical,"добираются, другие люди становятся"
+"американцы не успокоятся, пока Россию не развалят.",High,hostile,informative and biased,negative,"американцы, не успокоятся, развалят"
+По себе не надо судить.,Medium,informal,direct and admonishing,disapproval,не надо
+И на этом закончить с тобой беседу...... Видно не человек,High,dismissive,hostile,negative,не человек
+да потому что по телефону разговаривают когда едут! своими глазами вижу каждую неделю мотаюсь по облостям,Medium,frustrated,informal and colloquial,disapproving,"разговаривают когда едут (talking on the phone while driving), мотаюсь (slang for traveling, suggesting annoyance)"
+Посадить бы на наши пенсии,Medium,accusatory,colloquial,resentful,посадить
+какой человек придумал неделю досрочных выборов ?,Low,questioning,neutral,curiosity,none
+Да всем всё равно на этого человека,Medium,dismissive,colloquial,negative,всё равно
+"Я уже не знают, как обратить на себя внимание, зачем нам это все показывать",Low,frustrated,conversational,negative,"не знают, обратить, зачем, все"
+"Речь идет о поступке настоящих мужиков, про других речь не шла",Medium,informal,informative and assertive,exclusive,других
+уровень 7139 плохой! всем тем кто до него дойдет желаю великой удачи-а тем кто его придумал-наоборот!,Medium,emotional and critical,informal and expressive,negative,"плохой, наоборот"
+"так этот акимат только себе в карман кладет деньги. а для людей они нечего делать не будут. ни дорог, ни парка. полное разочарование",Medium,critical,informative and emotional,disappointment,"кладет деньги, полное разочарование"
+"правильно, дальше эти люди маньяками станут!!",High,sarcastic,informal and offensive,hostile,маньяками
+И я буду этому!!! Путинская власть в деле,Medium,aggressive,conversational and emotionally charged,negative,Путинская власть
+очистите страну от всех плохих вещей,Medium,imperative,directive,negative,плохих
+"Ловко обманул - значит молодец, понятия подлость и честь отсутствуют нацело",Medium,sarcastic,colloquial and critical,disapproving,"обманул, подлость, отсутствуют"
+"Какие-то интересные сайты? Ты там сидишь? Пойду тоже схожу, спасибо за подсказку.",Low,informal,casual,neutral,none
+из подтишка умеют бить,Medium,accusatory,colloquial,negative,"бить, подтишка"
+На телевидение и в газетах один обман.,Medium,critical,informative and assertive,negative,обман
+"позорит доброе имя олега ефремова,нет слов",Medium,disapproving,informative and emotional,negative,позорит
+"Велком это вообще полная ерунда, а по внешнему виду даже и не подумаешь",Medium,critical,informal and dismissive,negative,ерунда
+"Таких хулиганов нужно наказывать сразу, чтоб другим не повадно было",Medium,authoritative,directive,disapproving,"хулиганов, наказывать"
+"Ну,Александр,представляющий в комментариях мужское мнение,насколько я поняла,был окружен запросами женщин.",Low,neutral,informative,neutral,none
+"ты можешь сказать что-то со смыслом, парень?",Medium,informal,conversational and critical,disapproving,none
+"Дело не в религии ,кто вы если не евреи и не кавказцы?",Medium,interrogative and accusatory,provocative,confrontational,"евреи, кавказцы"
+"Кстати, плохая шутка про коран Кому как",Medium,casual,informal and judgmental,dismissive,плохая
+"В настройках поставил дваче капчу, а у меня опять это странная гугловская иконка появляется",Low,informal,neutral and descriptive,frustration,странная
+"других учит, та сама личную жизнь не устроила",Medium,sarcastic,colloquial and critical,negative,не устроила
+оставьте свои мысли при себе,Medium,dismissive,informal and directive,hostile,оставьте при себе
+Что хватило? Что добавить?,Low,inquisitive,informative and neutral,neutral,none
+"Потому что тебе сказать нечего, сидишь и не знаешь кому угодить.",Medium,hostile,conversational and antagonistic,critical,"нечего, угодить"
+а что то не так?,Low,neutral,informative and inquisitive,neutral,none
+Читай историю своей страны внимательно,Low,formal,informative and neutral,encouraging,none
+ефремов один негатив вызывает,Medium,critical,direct,negative,негатив
+Ты зачем обманываешь людей?,Medium,accusatory,colloquial,negative,обманываешь
+"Такая группа о Самарканде, и этих рекламируете, вот зачем?????",Medium,frustrated,informative with a hint of sarcasm,negative,"рекламируете, зачем"
+Сколько неприятного было на меня вылито,Medium,emotional,informative and emotional,negative,"неприятного, вылито"
+"За ер? Много ли людей проголосуют, хотя фанатов в любой секте хватает",Medium,provocative,critical and questioning,skeptical,"фанатов, секте"
+Что скажут то и говорит в своем эфире,Low,informal,opinionated,neutral,none
+"выучи сначала русский язык, или белорусский а потом говори",Medium,condescending,directive,dismissive,"выучи, а потом говори"
+Кто даёт разрешение на вырубку - наказывать невзирая на ранг,Medium,imperative,authoritative,punitive,наказывать
+Это не современные девушки. Современные нормальные. Не путайте.,Medium,dismissive,informative and critical,negative,не нормальные
+Что это за поток обвинений? ответить на вопрос не в состоянии!,Medium,accusatory,confrontational,critical,"поток обвинений, не в состоянии"
+Просто такого у нас даже к проверке Путина не было,Low,informal,informative and neutral,frustration,none
+"Дай бог, чтобы ты испытала тоже самое, вот от таких плохих и рождаются плохие",High,hostile,derogatory and accusatory,malicious,плохих
+уезжай за любую границу и там прояви себя.,Medium,dismissive,informal,negative,уезжай
+ты рф живешь и грязью россию полеваеш.,High,aggressive,colloquial,accusatory,"грязью, полеваеш"
+"Россия, да забудь ты этого Фургала и Хабаровск",Medium,dismissive,informal,disapproving,забудь
+"И так во всем, все 20 лет , одни обещания! Всей планеты!",Medium,frustrated,critical and negative,disappointment,обещания
+"матери не виноваты что такой сын вырос, но наказать его надо",Medium,judgmental,colloquial,critical,"виноваты, наказать"
+"Браслетов нет в продаже,они запретили",Low,neutral,informative,neutral,запретили
+Надо его наказать,Medium,assertive,directive,negative,наказать
+полностью солидарен. всё уважение к карелину как к великому спортсмену пропало после его высказываний,Medium,critical,casual and expressive,negative,пропало
+"Взрослые мужчины всё лезут к молодым, их не устраивает своя жена, значит пусть отвечает за свои поступки, раз мало ему было",Medium,critical,informative and accusatory,disapproving,"лезут, не устраивает, пусть отвечает"
+"Бедные дети, а тех кто над ними издевается - наказывать",Medium,serious,directive,protective,"издевается, наказывать"
+Некрасивые губы,Medium,disparaging,subjective and informal,negative,некрасивые
+Это ты слишком стараешься.,Low,informal,colloquial,sarcasm,слишком
+Что испугался за себя. В тюрьму тебя,High,aggressive,accusatory and threatening,hostile,"испугался, тюрьму"
+Как земля таких людей носит,Medium,disparaging,colloquial,disdainful,таких людей
+как же я люблю свою родину!!!,Low,enthusiastic,expressive and emotional,positive,none
+"Нормальные люди от юмора смеются, а ты тут разводишь скандал. Может тебе не здесь?",Medium,critical,informal and confrontational,disparaging,"разводишь скандал, тебе не здесь"
+"Родители виноваты , что детей не научили все вернётся",Medium,accusatory,informative and judgmental,critical,виноваты
+А это не хороший человек,Medium,informal,disapproving,negative,не хороший
+Рано или поздно все закончится и мы придём за каждым,High,threatening,aggressive,menacing,придём за каждым
+"Фу, как некрасиво хейтить за внешность. Слова не мужа, а подростка.",Medium,critical,informal,disparaging,"Фу, некрасиво, хейтить"
+Он и показал на руке все им не так,Medium,critical,informative,disapproving,не так
+им бабушкина квартира нужна вот и хотят свести в могилу и остаться не причём,High,accusatory,emotional and informal,hostile,свести в могилу
+Теперь я точно не стану досматривать этот сериал!,Low,firm,conversational,disappointment,none
+Что за люди в рваных штанах,Medium,dismissive,colloquial and judgmental,disapproving,рваных
+"Они вторую волну начинают! чувствуют, что им приходит!",Medium,aggressive,informal and emotional,threatening,приходит
+"Покажи свой митинг,может ты обманываешь",Medium,accusatory,informative and direct,suspicious,обманываешь
+"Вообще нет, у меня татарское лицо, а это типикал латыш или бульбаш",Medium,informal,dismissive and pejorative,derogatory,"типикал, латыш, бульбаш"
+"Много людей, не разбирающихся в теме.",Medium,informal,neutral,critical,none
+Ничего себе честный разговор. Фу!Такой же льстец.,Medium,derisive,colloquial and emotive,negative,"Фу, льстец"
+У Пескова есть гражданство.,Low,neutral,informative,neutral,none
+"Эх, как можно так? это дже твой ребёнок. маленький человечек. ужас просто",Medium,disapproving,conversational and emotional,critical,ужас
+я считаю Ельцин всю страну развалил,Medium,critical,opinionated and dismissive,negative,развалил
+все деньги хотят загребсти.а люди страдают.,Medium,critical,informative and emotional,negative,"загребсти, страдают"
+"как передает общую атмосферу. Очень тонкий подтекст. И очень толсто передал все, что нужно.",Low,neutral,informative,neutral,толсто
+вы бы ещк сделали узнайте актера по пятой точке! совсем с катушек съехали,Medium,informal,sarcastic and critical,negative,с катушек съехали
+Арестуйте этого человека,Medium,commanding,direct and imperative,authoritative,"арестуйте, человека"
+"готовься к санкциям Не проецируй. Разрыва контракта не будет, Россия, платит - значит всё хорошо.",Medium,commanding,informative,reassuring yet warning,"санкциям, разрыва"
+Зачем в приколы эту картинку поставили не понятно,Low,neutral,informal and neutral,confusion,none
+я горжусь своей страной и президентом,Low,patriotic,positive and supportive,pride,none
+"за него народ поднялся, а тебя люди даже и не знают! фургал- порядочный человек",Medium,informal and accusatory,colloquial and expressive,critical,даже и не знают
+а иногда бывают просто плохие гены!,Medium,blunt,colloquial,dismissive,плохие
+"если ты думаешь что я от фотошопа стану хуже ,то это неверно",Low,neutral,informative and conversational,defensive,хуже
+стоит ли уделять внимание каждому плохому человеку,Medium,inquisitive,colloquial,negative,плохому
+Мишустик ты бы замолчал,High,aggressive,informal,negative,замолчал
+вы что хотите что бы ваши дети в будущем в плохих условиях жили?,Medium,confrontational,informative and provocative,critical,плохих условиях
+этих людей надо всех сократить.,High,authoritative,directive and aggressive,negative,сократить
+"точно, нехороший человек, и это мягко сказано, уже в каждую спортивную передачу лезет, приходится искать каналы и репортажи без его присутствия и участия !",Medium,critical,informative and negative,dislike,"нехороший, лезет"
+"Вы же за полный разрыв отношений с агрессором, тогда зачем вы хотите транзита",Medium,sarcastic,provocative,accusatory,агрессором
+?так хоть кто то по обочине бы ехал.а так все как ненормальные встали...дальнобои порою в шоке...,Medium,informal,frustrated and critical,displeasure,"ненормальные, шоке"
+"глупышка, приехала в одессу со своим уставом !",Medium,disparaging,informal and derogatory,negative,глупышка
+Там написано он попросил и убедился значит они повернулись уже,Low,neutral,informative,factual,none
+Нет на сегодняшний день нормальных мужчин,Medium,dismissive,informative and critical,negative,ненормальных
+что за группа одна реклама..,Medium,critical,informal and dismissive,negative,реклама
+Уходите с проекта на вас смотреть уже противно из за вас дом 2 смотреть не хочется,High,aggressive,informative and direct,negative,"уходите, противно, не хочется"
+и стабильные закоренелые люди восхваляют все это,Medium,critical,colloquial and slightly negative,cynical,закоренелые
+Это пипец! Грех какой!,Medium,informal and strong,expressive and colloquial,negative,"пипец, грех"
+Я поражен. Кокаин был не свежий?,Medium,informal,sarcastic,critical,"Кокаин, не свежий"
+"доказательства оскорбления тредов, к примеру",Medium,formal,informative,accusatory,оскорбления
+"Таких родителей необходимо найти и наказать, однозначно.",High,aggressive,imperative,vindictive,наказать
+Этих людей ничего не исправит,Medium,critical,colloquial,negative,исправит
+"Вернись, будь настоящим русским патриотом! Попробуй забрать все, что слева от Днепра+Одессы! Тебе кто-то мешает?",High,aggressive,provocative and inflammatory,hostile,"забрать, мешает"
+"Если любого из нас достать, то мы можем очень сильно разозлиться",Medium,cautionary,informative and cautionary,warning,разозлиться
+"С чего ты решил, что это мне подарили, и мне надо завидовать?",Medium,questioning,informative and slightly confrontational,skeptical,завидовать
+Я не твой друг,Low,direct,plain and straightforward,neutral,none
+"Беззащитное животное избить, которое не может себя защитить",High,aggressive,emotionally charged and violent,cruelty,избить
+Нуи отчаяный человек а мог бы и душу богу отдать на суд,Medium,informal,dismissive and judgmental,negative,"отчаенный, душу богу отдать"
+и т д....нечего им там делать прежде всего!,Medium,dismissive,informal and judgmental,negative,нечего
+еврейское тв пересмотрел???,Medium,provocative,colloquial,critical,еврейское
+"Больше ничего не умеют делать, кроме как обижать слабых и беззащитных",High,accusatory,aggressive and negative,hostile,"обижать, слабых, беззащитных, ничего не умеют делать"
+Завтра в хабаровске вдвшники будут разгонять нарушителей,Medium,assertive,informative,serious,"разгонять, нарушителей"
+"Это старое фото, в середине мэр орши лисовский.",Low,informative,neutral,neutral,none
+А что рядом других мужчин не оказалось? Кто ему лицо на чистил? Вывод? Мужики к сожалению перевелись,Medium,criticizing,colloquial,frustration,"на чистил, к сожалению, перевелись"
+"хватит выпрашивать классы, просто помните.",Medium,commanding,informative,frustration,выпрашивать
+"Веселись сегодня, удрученный ты наш)))",Low,sarcastic,informal,mocking,удрученный
+Глупые награждают себя. кто пойдёт за них воевать. сам и путин.,Medium,critical,informative and neutral,dismissive,Глупые
+песня есть у шнура эт про него,Low,informal,conversational and neutral,neutral,none
+"Эмбрион это не человек потому что у него нет памяти, нет личности, нет эмоций, нет ничего",Medium,assertive,informative,dismissive,"нет памяти, нет личности, нет эмоций, нет ничего"
+обоих посадить нужно. за преступление и непрофессионализм,Medium,assertive,direct and accusatory,disapproving,"посадить, преступление, непрофессионализм"
+"Как интересно,может мне стоит посмотреть,а не тутурукать тут)",Low,informal,colloquial and conversational,curious,тутурукать
+эти люди живут за счёт пенсионеров,Medium,accusatory,informative and critical,negative,живут за счёт
+И в 3 подъезде бывает такое. Поймать бы его.,Low,concerned,conversational,frustration,поймать
+вот кого наказать то надо,Medium,assertive,informative and commanding,critical,наказать
+"глумление над народом, тяжелее ручки в руках не держали, всё воздасто сполна, как не крути и это будет",High,accusatory,derogatory and judgmental,angry,"глумление, воздасто сполна"
+"сама то что, только официальных 5 мужей, а сколько еще любовников! чтобы такое говорить самой надо быть кристально чистой!",Medium,accusatory,informal and confrontational,negative,"мужей, любовников, кристально чистой"
+"Я знаю на что способна.. я тоже не древний, в конце конце женщине скажут что она современная дама",Low,neutral,informative,assertive,none
+"там человека убили, а они будто на выставку машин приехали",Medium,informal,accusatory and dismissive,critical,убили
+"Это невежливый человек, не папа?",Medium,disparaging,casual,negative,невежливый
+"умный какой, не одна вышка наверное!!",Medium,sarcastic,colloquial,negative,умный какой
+"посмотрите независимое расследование васильевой, а потом делайте выводы",Low,neutral,informative,encouraging critical thinking,none
+Зачем он туда заперся?,Low,inquiring,colloquial,curiosity,none
+От туда не хорошее к нам плывет.,Medium,negative,informative,pessimistic,не хорошее
+за такие деньги нетолько закупить и страну можно из кризиса вытащить,Low,informal,neutral and straightforward,displeased,кризиса
+"ерунда какая то, картинка с ними одна и та же, по 10 раз.",Medium,informal,complaining and frustrated,negative,ерунда
+нет возможности володина вызвать .напомнил бы ему о многом.,Low,neutral,informative,neutral,none
+"бедный ребенок, как с такими родителями дальше жить",Medium,sympathetic,concerned and critical,empathy and dissatisfaction,"бедный, такими"
+"от плохой жизни, от голода, человек распух!!!!",Medium,emotional,dramatic and concerning,negative,"плохой, голода, распух"
+он понятия не имеет о чём ты. ему что говорят его отцы и деды он в это и верит:d,Low,informal,conversational and dismissive,disrespectful,понятия не имеет
+"Если не знаешь о чем говорят, помолчи",Medium,directive,commanding,confrontational,помолчи
+"Модераторы, отвечайте, ! Почему демонеток удалили, а запрещенные танцульки на месте?",Medium,demanding,colloquial,frustration,запрещенные
+"Ты ещё на сайте, договоришься",Medium,informal,colloquial,sarcastic,договоришься
+маникюр лучше чем у меня,Low,informal,informative,self-critical,none
+"Если водитель из плохой компании, на уголовную ответственность наездил, покушение на убийство дадут",Medium,critical,informative and judgmental,negative,"плохой, уголовную ответственность, покушение на убийство"
+Ты ещё не устал всех оскорблять?,Medium,accusatory,conversational,negative,оскорблять
+нужно было просто уплыть куда плыли.,Low,neutral,simple and direct,neutral,none
+вас что-то не устраивает?,Low,inquisitive,neutral,curiosity,none
+"Выйдут мужики, полицейским плохо будет",Medium,informal,colloquial and threatening,aggressive,плохо
+Уничтожают народ! Народу не дают работать,High,aggressive,emotional,frustration and anger,"уничтожают, не дают"
+"конечно двое на подхвате можно и в течени беседы нанести удар , и друзья такие же не спортивное поведение",Medium,informal,conversational and critical,hostile,"удар, не спортивное поведение"
+Правда ? Ты много говоришь от зависти,Medium,confrontational,accusatory and critical,disapproving,зависти
+Сколько же заблуждающихся в России в месте с тобой,Medium,judgmental,critical,negative,заблуждающихся
+Оставьте меня в покое. Приставайте к своей жене и ждите,Medium,aggressive,dismissive and confrontational,negative,"Приставайте, ждите"
+Я сам смеюсь как ненормальный с них.,Medium,informal,colloquial and potentially derogatory,mocking,ненормальный
+этому захар дал паспорт днр,Low,neutral,informative,neutral,none
+Водитель молодец,Low,positive,informal,complimentary,none
+"продали будущее семьи на поколения вперёд,...и теперь они ещё и рекламу делают.",Medium,accusatory,critical,negative,"продали, вперёд"
+"Тебя выгнали из авиации за твои высказывания, и правильно сделали",Medium,hostile,assertive and critical,disapproving,"выгнали, правильно сделали"
+кто до сих пор позволяет ей отзываться о нас ?,Medium,accusatory,informative,negative,"позволяет, отзываться"
+А ведь сколько денег могли бы отдать кубе с Африкой Ирак с ираном-а так все растянули,Medium,critical,informative and assertive,disappointment,растянули
+"Какая не хорошая, не устала врать на форумах? Откуда столько плохого в тебе",High,accusatory,derogatory and confrontational,hostile,"не хорошая, врать, плохого"
+"и чувствуется по школотной наивности админов - и не увидим. ни ссылки, ни клипа. поколоение егэ.",Medium,disparaging,colloquial and informal,critical,"школотной, наивности"
+нормальный водитель так себя не станет вести,Low,casual,informative,disapproving,нормальный
+"это он, а не она , провокатор",Low,accusatory,direct and casual,negative,провокатор
+"Итак, вот не будь у меня этой вещи, может и поверил бы",Low,conversational,informal and casual,doubtful,none
+а чем лучше Власов ? такой же как и Бандера,Medium,critical,colloquial,negative,"тоже, такой же, как и Бандера"
+Смотри что делает сегодня твой президент.,Medium,critical,informative and neutral,disapproval,none
+"импеллер же, импеллер",Low,neutral,informative,neutral,none
+Надеюсь тебя накажут за такие надписи ...иногда головой думай что пишешь!,Medium,aggressive,colloquial and accusatory,negative,"накажут, думай что пишешь"
+"глупое видео, да и ребенок не пристегнут, а блин такой ,,умный,,",Medium,sarcastic,informal,negative,"глупое, не пристегнут, блин, ,,умный,,"
+"Идеальный анонимус: изобличает, тралит, давит на больное и делает это со вкусом. У людей сильно подгорает, just is planned.",High,mocking,informal and provocative,antagonistic,"изобличает, тралит, давит на больное, подгорает"
+"Ничего себе, сколько людей его смотрели и подозреваю, что присоединятся",Low,informal,casual and conversational,positive,подозреваю
+Кто это постит?,Low,direct,informative and neutral,inquisitive,none
+было.))).20 лет в браке.ушла.оставила семью бомжами.)))и еще условия поставила.))).все равно этого человека люблю.но простить не могу да и ...,Medium,emotional,informal and narrative,resentful,бомжами
+"С прискорбием тебе сообщаю , ты обманщик коля",Medium,accusatory,informal,negative,обманщик
+"РФ готова поддерживать хоть кого, если это поднимет цену на нефть.",Medium,informative,cynical and pragmatic,opportunistic,хоть кого
+Зачем кино снимать!? подмазался ... и тебе медалька и премия!,Medium,sarcastic,colloquial,negative,"подмазался, медалька"
+взять что с них,Low,informal,colloquial,dismissive,none
+не оболщатесь это миф,Low,informal,dismissive,skeptical,миф
+"Приграли не мы, а правительство",Medium,critical,colloquial,negative,правительство
+можно подумать конкуренты хотят народу помочь.все во власть лезет.а его просто кто то тащит в депутаты!,Medium,sarcastic,colloquial,skeptical,"лезет, тащит"
+Где они такие зарплаты нашли,Low,informal,colloquial,skeptical,none
+"о таких людях я даже не знаю,что писать!!!!",Medium,frustrated,informal and exclamatory,negative,none
+"Да какое поколение? Украли машину у тех, кто войну проиграл. Стыдно должно быть.",Medium,accusatory,colloquial and emotional,critical,"украли, войну проиграл, Стыдно должно быть"
+И как земля таких носит?,Medium,sarcastic,informal and confrontational,negative,таких
+Не отвечай на провокации этого человека все и так ясно,Medium,directive,informative and slightly dismissive,negative,провокации
+а судью бог накажет. все возвращается бумерангом.,Medium,judgmental,informative and accusatory,negative,"накажет, возвращается бумерангом"
+Водители не смотрят в зеркала.,Low,neutral,informative,critical,none
+дайте уже пожить создать семью отдал 35 лет жизни кормил правителей власти 30 лет мой отец 60 лет хватит,Medium,frustrated,emotional and critical,resentful,"кормил, правителей, власти, хватит"
+Такие же люди и привели этих людей,Low,neutral,descriptive,neutral,none
+В такой ситуации виноваты из ростелекома у которых даже кошка может купить фильм с пульта,Medium,critical,informative and disapproving,negative,виноваты
+Я за этим проектом 5 лет наблюдал с первого выпуска,Low,neutral,informative and neutral,positive,none
+"тебя там унизили, что ты такое утверждаешь?",Medium,confrontational,accusatory and provocative,negative,унизили
+"Только хотел спросить, что за завалы. Плохие в Рашке плотники",Medium,derogatory,informative and disrespectful,negative,"Рашке, плохие"
+"Даа, страна нуждается в героях",Low,neutral,informative and neutral,positive,none
+крым всегда был и будет российским!!! всем назло!!!,High,assertive and aggressive,provocative and nationalistic,defiant,назло
+Вы у себя разберитесь сначала,Medium,dismissive,colloquial and direct,critical,разберитесь
+да кто ты такая!!! и так врачей не хватает (((,High,aggressive,colloquial,contemptuous,"кто ты такая, не хватает"
+Хомячки вышли размяться.,Low,informal,casual,neutral,none
+Родители пьют за счёт детей,High,critical,accusatory,negative,"пьют, за счёт детей"
+Конделаки опять в апл не прошла?,Low,inquisitive,informative,disappointment,none
+"Да врёт он, форма флора, а кепки с какого ларька?",Medium,dismissive,colloquial and informal,skeptical,врёт
+Что с них взять?,Medium,dismissive,colloquial,frustration,none
+У ребенка плохое поведение,Medium,assertive,critical,negative,плохое
+"Должен получить срок 12 лет, он убил человека.",Medium,serious,informative,disapproving,убил
+Он плохой боец,Medium,critical,direct,negative,плохой
+Если вас раздражают тиканье часов - это синдром неврастении.,Low,informative,clinical and diagnostic,neutral,"раздражают, синдром, неврастении"
+"ага,прямо таки наблюдатели это всё пропустили ...эк как поправки не по нутру",Medium,sarcastic,colloquial and informal,negative,"пропустили, не по нутру"
+"Может хватит, Иуд светить?",Medium,informal,colloquial and sarcastic,dismissive,Иуд
+хочется поинтересоваться психическим состоянии этого человека?,Medium,curious and potentially provocative,colloquial,critical,психическим
+"его не зря построили, собирается все, предатели.",High,accusatory,critical and aggressive,negative,предатели
+От одной избавились,Medium,dismissive,informal and negative,critical,избавились
+"это им, не стариков да студенток метелить.",High,aggressive,colloquial and derogatory,hostile,метелить
+своих увидела и голосок прорезался?,Medium,sarcastic,colloquial,derogatory,голосок прорезался
+называется - веди себя как шут перед камерой на потеху толпе,Medium,derisive,colloquial and sarcastic,mocking,"шут, на потеху толпе"
+Может он их ещё в СБУ передаст?,Medium,sarcastic,informal,contemptuous,СБУ (can imply negative connotations in the given political context)
+Всем привет из российского Крыма,Medium,informal,informative and colloquial,patriotic,none
+вот это правильно. а не участников из дома 2 показывать,Medium,critical,informative and judgmental,disapproving,участников из дома 2
+кто этот человек,Low,neutral,informative and straightforward,inquisitive,none
+"кулибин, на хонор это не прокатывает",Medium,dismissive,informal and colloquial,disapproving,прокатывает
+Вот так и живем среди них,Medium,informal,colloquial,discontent,них
+"им все равно на все эти митинги, главное что бы они бизнес классом летали на мягком и уютном.",Medium,sarcastic,informal and dismissive,negative,"все равно, митинги"
+"подумайте лучше об этих людях и о стране, которую они превратили в собственную кормушку",Medium,critical,informative and accusatory,negative,кормушку
+собрать народную дружину и слухи быстро пойдут,Low,informative,colloquial,neutral,none
+Надоели вы уже своими котами,Medium,frustrated,informal and dismissive,negative,надоели
+"Дороги начали строить, видимо с администрацией провели жесткие переговоры.",Low,formal,informative and neutral,assertive,жесткие
+Соболезнования родителям! А виновника найти и наказать!,Medium,direct,concern and imperative,commanding and empathetic,"наказать, виновника"
+Тебе вопрос задали: что плохого написано о мусульманах?,Medium,interrogative,informative,neutral,плохого
+ты чего это плохого плохим обзываешь,Medium,accusatory,colloquial and confrontational,negative,"плохого, плохим, обзываешь"
+и где они хоть 8 нема вообще негодяи обнаглели,High,aggressive,colloquial and confrontational,frustrated,"негодяи, обнаглели"
+Молодец таких людей надо наказывать если закон бессилен,Medium,critical,directive and judgmental,condemnatory,"наказывать, бессилен"
+Ты о чем Клава?,Low,informal,conversational,neutral,none
+"Добрый, но это сразу не поймёшь",Low,neutral,informative,neutral,none
+Папу поймать и наказать. И пусть растит детей,Medium,authoritarian,directive and punitive,severe,"поймать, наказать"
+Да оно и по Росии эти существа гуляют,Medium,dismissive and derogatory,colloquial and informal,negative,существа
+потому что жизнь глупого ничему не учит,Medium,derogatory,informative and critical,negative,глупого
+Так что господа оккупанты ничего у вас не выйдет!!!!!,High,aggressive,derogatory and confrontational,hostile,оккупанты
+Какое отношение твой сайт имеет к этой теме?,Low,inquisitive,informative and neutral,neutral,none
+"С ним все возятся, если бы не было видео, он давно бы опять вел себя аналогичным образом",Medium,critical,informative and subjective,disapproving,возятся
+Что выделываться. Пусть благодарит бога что ноги ни зажевало,Medium,dismissive,colloquial,sarcastic,"выделываться, зажевало"
+Как вы надоели показывать одно и тоже,Medium,frustrated,colloquial,negative,надоели
+этот человек уже внес свою лепту в развал страны в свое время,Medium,accusatory,insinuative,negative,развал страны
+"А кто тебя будет спрашивать, на каком языке нам разговаривать?",Medium,dismissive,accusatory,hostile,спрашивать
+Какое неприятное у нее выражение лица.,Medium,critical,informative and neutral,negative,неприятное
+Короткова кстати. Она нас учила 3 года.,Low,neutral,informative,reflective,none
+"Дай бог, если очередному человеку это будет уроком - не делать плохого соседу",Medium,hopeful yet admonishing,informative and slightly reproachful,warning,плохого
+нечего врать. сидишь тут провоцируешь,Medium,aggressive,informal and direct,hostile,"врать, провоцируешь"
+"Ребята я уже на французском, одного человека нет, другой просто притворяется ну читать уже не интересно",Medium,informal,frustrated and dismissive,displeased,"притворяется, не интересно"
+"всё здорово, леса валом, 95% нелегально добытого и всем по..",Medium,informal,colloquial and sarcastic,discontent,"нелегально, по.."
+А работать не хочешь? Хочешь за свои фотки деньги получать? Не выйдет,Medium,confrontational,colloquial and critical,disapproving,"не хочешь, не выйдет"
+Что ты можешь людям предложить ?,Low,neutral,informative,curious,none
+"Это, что, живой собаке глаза прищепкой, ради прикола? А себе пробовали? Это самое больное место, веки. Ужас!",High,aggressive,informal and confrontational,angry,"живой собаке, глаза прищепкой, больное место, веки, Ужас"
+"емедленно извинись перед МНЕНИЕМ! Да, я в курсе, что Титан мысли его довничем считает",Medium,commanding,imperative and emphatic,authoritative,"немедленно, считает"
+А что нам остаётся делать? Принимать всё как есть,Low,neutral,informative,resigned,none
+Пусть они тогда сами делают,Low,casual,informative and neutral,dismissive,none
+Дело даже не в iQ - просто им там не место.,Medium,dismissive,colloquial and dismissive,exclusionary,не место
+Что притворяется китайским философом.Иди мебель двигай по феншую,Medium,sarcastic,colloquial,dismissive,"притворяется, иди двигай"
+"мягко сказано, конца не видно и россии нет, всю почти продали",Medium,critical,colloquial and pessimistic,negative,"нет, продали"
+"О, пришла весна, начались обострения",Medium,sarcastic,colloquial,negative,обострения
+"значит ты написал необосновоанное сообщение, а как попросили подтвердить - ушел и даже не извинился?",Medium,accusing,informative and confrontational,negative,"необосновоанное, ушел, не извинился"
+"а сейчас эти люди забрали то, что строили наши деды. и потешаются над нами",Medium,accusatory and judgmental,colloquial,resentful,"забрали, потешаются"
+наказывать за такое надо,Medium,assertive,directive,disapproving,наказывать
+"Его обидели и он ушёл на ютаб, кадавр, кстати на стриме вроде как разбирал его ролик, но я не смотрел",Low,informal,casual and conversational,neutral,обидели
+"Не может быть, а все, никуда не уйти.",Low,informal,pessimistic and resigned,negative,не уйти
+"Люди уже перестали ругаться, а тут ты пришол",Medium,informal,conversational,disappointment,ругаться
+"Сочи не склоняется! Не в сочах, а в Сочи!",Low,emphatic,corrective,frustration,none
+"я ещё работаю и внукам помогаю,спасибо путину,добавил ещё 2,5 года",Low,informal,sarcastic,negative,"спасибо путину, добавил ещё 2,5 года"
+"Она уже сказала, с миру по нитке! Когда они уедут на острова, подальше...",Low,informal,colloquial,mild frustration or resignation,none
+Почему вы меня не понимаете я же сказал что ваше мнение мне не интересно,Medium,frustrated,assertive and dismissive,negative,"не понимаете, не интересно"
+"и правильно,пусть уезжает в родные пенаты!",Medium,dismissive,informal,negative,"уезжает, родные пенаты"
+спам!!! информацию он распространяет ложную,Medium,aggressive,emotional and accusatory,negative,"спам, ложную"
+"слушай, админ, прикидываешься? тебе тут кондитерская или что?",Medium,confrontational,informal and accusatory,disrespectful,прикидываешься
+Встал народ от мала до велика значит не так хорошо как об этом говорят сми,Medium,critical,informative,negative,не так хорошо
+Почему у папича такой странный чат. Традиция,Low,inquisitive,informative,neutral,странный
+"Очередной способ угнать лавэ, откройте глаза и заблокируйте останкинских",Medium,informal,colloquial and aggressive,critical,"угнать, заблокируйте"
+Он с жиру бесится. Какой миллион? У народа и так денег нет.,Medium,informal,expressive and emotional,frustration,"с жиру бесится, денег нет"
+Была же информацию что американцы собирают генетические материалы россиян..,Medium,informative,suspicious,concern,американцы
+Всем она надоела,Medium,frustrated,informal,negative,надоела
+"сейчас я все поясню подожди,до дома доберусь,виски выпью и расскажу тебе",Low,informal,casual and conversational,casual,none
+Еще хватает наглости выставлять на лайки,Medium,disparaging,colloquial,negative,наглости
+На том свете уже никто не отмажет,Medium,threatening,colloquial and aggressive,negative,отмажет
+вот такие люди управляют страной,Medium,critical,informal and judgmental,negative,управляют
+"Неужели непонятно, что задавая глупые вопросы, эти люди зарабатывают деньги, отстаньте уже",Medium,frustrated,informative and direct,dismissive,"глупые, отстаньте"
+один раз избрали а теперь невыгониш,Medium,critical,colloquial,negative,невыгониш
+Она не сможет для пропитания ничего добыть,Medium,negative,informative and judgmental,disapproving,"ничего, не сможет"
+аж зла не хватает песня написана предположительно 1920-21,Low,informal,informative with slight emotional undertone,frustration,зла не хватает
+В Бангладеше тоже население растёт,Low,neutral,informative,neutral,none
+дочь в нее пошла-такая же,Medium,informal,colloquial and critical,negative,пошла-такая же
+А сам в Канаду уехал,Medium,sarcastic,colloquial,critical,уехал
+"так получается,что батька за одно с киевом придумали это!? Не знаю что делает лукошенко .как жить будет с этим?",Medium,questioning and accusatory,cynical and interrogative,suspicious and critical,"батька, за одно, придумали"
+"Если некоторое время деньги не вносишь, наказывают",Medium,informal,informative,admonishing,наказывают
+ты на зарплату посмотри че ты пишешь гражданин,Medium,informal and dismissive,colloquial and confrontational,critical,че
+слов нет одни эмоции.,Low,informal,expressive,neutral,none
+Его скоро прогонит собственный народ дай бог людям другого президента,Medium,critical,colloquial,disapproving,прогонит
+потом от избиений и правда хромой станет,High,threatening,violent and aggressive,hostile,"избиений, хромой"
+Чем меньше на это обращать внимание-тем лучше,Low,advisory,neutral,suggestive,none
+сколько изворачиваться будешь никто уже не верит твоим словам,Medium,accusatory,informal and confrontational,critical,изворачиваться
+Вот так и живём. А вы за эту партию голоса отдали.,Low,conversational,informative and slightly critical,disappointed,none
+Я видел этого человека недавно в Химках на гик-конвенте. Довольно крупного телосложения,Low,informative,neutral and descriptive,neutral,none
+Побить росгвардейцев у вас теперь появится возможность только через год,High,provocative,colloquial and aggressive,hostile,"Побить, росгвардейцев"
+"Как тогда те самолеты, которые разбились, поднялись в воздух?",Low,inquisitive,neutral,curiosity,разбились
+Да там русских достаточно живет и они временами совершают преступления но почему-то не слышно про митинги и погромы,High,accusatory,critical and inflammatory,hostile,"преступления, митинги, погромы"
+адвокат трактует его по своему. лишить лицензии навсегда.,Medium,assertive,decisive and authoritative,punitive,"лишить, навсегда"
+"правильно, ты ничего не смог толком пояснить за свои измышления, кто бы сомневался.",Medium,sarcastic,informal and critical,negative,"ничего не смог толком пояснить, измышления, кто бы сомневался"
+И что ты им докажешь - у них все деньги мира и все СМИ.,Medium,skeptical,cynical and accusatory,resentful,"докажешь, деньги, СМИ"
+Очень нехорошие люди проникают во все сферы жизни 5 дней снимает ролики с зумом на фурункул,Medium,critical,colloquial and negative,disapproving,"нехорошие, фурункул"
+"Еще и Живчик возить перестали, с эхинацеей, и Бiле, мое любимое.",Low,neutral,informative,disappointment,none
+"Больным детям собираем всем миром на лечение, а некоторые люди откармливаются бесплатно зачёт всей страны. Когда уже наедитесь",High,accusatory,informative and critical,hostile,"откормливаются, бесплатно, зачёт всей страны, Когда уже наедитесь"
+муж её говорит денег нет у них а она маску заказывает дорогую несколько тыс,Low,informal,casual and conversational,disapproving,"нет, дорогую"
+Зачем он нужен?,Low,neutral,informative,inquisitive,none
+Такое враньё в комментах почитал,Medium,accusatory,informal and critical,negative,враньё
+Впереди шла тоже девочка ребёнок они вместе вошли в подъезд а за ними зашёл этот человек,Low,neutral,informative,neutral,none
+"А дополнительно депутатам. А сейчас мы должны обеспечивать не только их, но и их семьи",Medium,critical,informative and cynical,negative,"должны, обеспечивать"
+Мне не нравится что вы анонимно осуждаете людей за доносы. Это очень смешно,Medium,critical,informative and dismissive,disapproving,"осуждаете, доносы"
+Озверели.правильно мужик сказал режиму скоро придёт конец.,Medium,aggressive,colloquial and hostile,negative,"Озверели, режиму скоро придёт конец"
+Разве ты не понимаешь этого? Вот лол.,Low,informal,conversational and sarcastic,slightly condescending,лол
+"Надеюсь и последние кадры уедут в другие города, где нет такого руководства.",Medium,resentful,informative and negative,disapproval,нет такого руководства
+К тому же вальва уже давно не геймдевелоперская контора а занимается непонятно чем,Medium,informal,criticism,negative,непонятно
+вас кинули ...но они обязуются все это выполнить к 2030 году...,Medium,frustrated,informative and critical,disappointed,кинули
+Лукашенко называет нашего президента старшим братом,Low,neutral,informative,respectful,none
+"вот это непотребство, т. е. гуманность, исходит от тех людей, чьи дети на донбассе не воюют и не гибнут.",High,sarcastic and accusatory,informative and critical,disdainful,"непотребство, не воюют и не гибнут"
+Кончай это потреблять и отойди от зеркала.,Medium,commanding,informative and direct,disapproving,"Кончай, потреблять"
+"прежде чем обвинять его,докажите что он был за рулем",Low,firm,informative,slightly accusatory,обвинять
+"из какого места этих нехороших людей родили, уже понятно.",Medium,derogatory,informative but scornful,negative,нехороших
+"потом этот плохой человек, по другому не назвать, едет в лес и сыпет эту гадость где ни попадя!",Medium,aggressive,informal,disapproving,"плохой, гадость"
+"этот американец уже совсем выпал из реальности, он наверное думает что своему богу угождает",Medium,derogatory,informative and judgmental,negative,"выпал из реальности, угождает"
+и можете дальше предаваться развлечениям и любоваться фотками раз в два дня,Low,casual,informative and neutral,relaxed,none
+наткнешься когда-нибудь на таких же людей и жизнь сразу обретет вкус!,Low,encouraging,informative and positive,optimistic,none
+"тебе мало женщин, что на ребенка бросаешься",High,accusatory,colloquial,negative,бросаешься
+такие люди не должны жить на руси.,High,hostile,informative,exclusionary,не должны жить
+повезло белой легковушке что этот человек в нее не влетел,Low,casual,informative,neutral,влетел
+"ты посмотри за что ты работаешь, за что будут работать твои дети",Medium,critical,informative and scrutinizing,negative,"работаешь, будут работать"
+"послушай,я не смотря на свои 62 года до сих пор на летной работе,врачи пока допускают",Low,informal,informative and casual,positive,none
+это люди им позволяют грабить и унижать себя,Medium,accusatory,informative and critical,negative,"грабить, унижать"
+"ты на путина и его приближенных работаешь, а в итоге ты зависимый от него человек.",Medium,accusatory,colloquial,critical,зависимый
+Какие же бессовестные люди сейчас сидят в верхних эшелонах власти .,Medium,critical,accusatory,disapproving,бессовестные
+правители совсем продались америке? или всё таки с ума сошли??,Medium,accusatory,colloquial,negative,"продались, с ума сошли"
+"отстань со своими советами, я тебя не спрашивал, что мне делать и как мне думать",Medium,disrespectful,direct and dismissive,frustration,"отстань, не спрашивал"
+"ты, пожилая женщина, сидишь в очках днями и ночами и никак не разберешься, кто тебя обманул",Medium,informal and critical,disrespectful and condescending,negative,"пожилая, никак не разберешься, обманул"
+Человека ради форумных кинула!!,Medium,aggressive,colloquial and emotional,critical,кинула
+российское воспитание людей теперь поставлено на поток,Medium,critical,colloquial and evaluative,cynical,поставлено на поток
+"киргиз украл,она сбежала,так он ее зарезал",High,aggressive,violent and discriminatory,hostile,"украл, зарезал"
+нечего было курортный сизон открывать.а теперь цифры пишут,Medium,critical,informative,negative,"нечего, пишут"
+"Это не с родиной беда, а людьми, которые никак не угомонятся!",Medium,critical,opinionated and informal,disapproving,"беда, не угомонятся"
+почему таких защитников не судят?,Medium,questioning,critical,negative,судят
+"Ужасные люди, полстраны подсадили на кредит и рады этому.",Medium,critical,informative and emotional,negative,"ужасные, подсадили, рады этому"
+А этих двух и начальника поезда пусть такая же старость ждет,Medium,critical,colloquial and negative,condescending,"ждет, старость"
+"но вам-то, наверное, достаточно гадостей, льющихся с экрана путиновизора",High,sarcastic,colloquial and critical,negative,"гадостей, путиновизора"
+Я думал с людьми общаюсь оказалось нет,Low,disappointed,informative,negative,none
+"Представляете, он служит в полиции, делайте выводы,",Medium,sarcastic,colloquial,critical,делайте выводы
+"Ты стебешься сейчас? есть люди, которые не знают и готовы учиться",Medium,sarcastic,colloquial,disapproving,стебешься
+"Кланятьcя вcем, кто предcтавляет опаcноcть и cмаковать мучения более cлабых попутно доносить на них",High,hostile,pejorative,malicious,"опасность, смаковать, мучения, доносить"
+"Ерунду говорит, нужно убирать таких из страны",High,aggressive,informative and negative,hostile,"Ерунду, убирать, таких"
+Найти по телефону нарушителя и наказать по всей строгости!,Medium,authoritative,commanding,punitive,"нарушителя, наказать, строгости"
+Он просто немного чудной,Low,casual,informal,neutral,чудной
+Обманщица судить ее надо за такое голосования,High,aggressive,informal and accusatory,strong disapproval,"Обманщица, судить"
+дааааа......муж моей знакомой говорит......мне только 40....а жене уже 408oi так знакомая выглядит просто отлично.....а он как попа из кустов,Medium,informal,conversational and somewhat sarcastic,critical,попа из кустов
+"Но меня осенило когда сначала вернули значки, а потом произошел расстрел мечети в НЗ",Medium,informal,descriptive,negative,расстрел
+а эти люди совершили вооруженный переворот и захват власти,Medium,accusatory,informative and critical,negative,"вооруженный переворот, захват власти"
+"такие люди управляют страной, не возмущайся, народ.",Medium,dismissive,informative and critical,discontent,возмущайся
+Этим людям не выгодно против себя принимать эти законы,Low,informal,colloquial and neutral,neutral,none
+"удивительно другое , сколько людей верит в эту ерунду!",Medium,sarcastic,informative and slightly derogatory,negative,ерунда
+"Сейчас нужно найти мужчину, а не обманщика",Medium,informal,judgmental and critical,negative,обманщика
+"дожили, безнравственные люди учат как надо жить и что делать!",Medium,critical,informal and subjective,discontent,безнравственные
+"он хвастается рязанским говором,еще и гуглит незнакомые словечки",Medium,mocking,informative,critical,хвастается
+"Да нельзя бросать экскременты на улице, точно так же нельзя бросать экскременты в урны",Medium,authoritative,instructive,critical,экскременты
+наша страна не продается,Medium,defensive,assertive and nationalistic,patriotic,продается
+И этой лжи учат адвокаты,Medium,accusatory,opinion-based and negative,critical,лжи
+и теперь такие люди будут отвечать по закону.,Medium,neutral,informative,critical,такие люди
+таких людей надо от общества изолировать,Medium,serious,prescriptive and neutral,exclusionary,изолировать
+"понял, что ошибся по всем пунктам, а теперь пытаешься извернуться",Medium,informal,conversational and accusatory,negative,"ошибся, извернуться"
+"вы уже надоели с этими открытками, может, хватит?",Medium,informal,confrontational and dismissive,irritated,"надоели, хватит"
+"что ж ты прячешься, говоришь за чужой спиной?",Medium,confrontational,informal and accusatory,aggressive,"прячешься, чужой спиной"
+На какое противоречие ты указал?,Low,inquisitive,informative,neutral,none
+говоря прямо: эти фильмы - никому не нужное творчество?,Medium,critical,informal,disparaging,никому не нужное
+"а, что же вы, люди, сидящие в кремле, свои сбережения не подсчитываете?",Medium,disapproving,colloquial and confrontational,critical,"сидящие в кремле, не подсчитываете"
+"этот мальчик возможно и отомстит, если эти люди не забьют его.",High,threatening,hostile and aggressive,menacing,"отомстит, забьют"
+"люди, бог все видет, вернётся все вам людям...",Medium,warning,informational and rhetorical,cautionary,вернётся
+"Для стима пилили петицию , но закономерно потерпели неудачу.",Medium,critical,informative and neutral,disapproval,потерпели неудачу
+приложил руку к развалу союза а теперь ещё что-то говорит.,Medium,informal,conversational and accusatory,critical,развал
+"как всегда сказочно наврал, особенно про дочку вколовшую себе вакцину.",Medium,accusatory and skeptical,informal and critical,negative,наврал
+Ещё один человек со своим мнением.,Low,neutral,informative,dismissive,none
+"я потерял маму, а после сорока дней жена ушла... вот и вся ваша верность!",Medium,disappointed,emotional and personal,sadness,верность
+а не людей из дома 2 показывать.,Medium,critical,informative and opinionated,disapproving,none
+"ты не первый и не последний,время придёт ,посмотрю как ты скулить будешь.",High,threatening,aggressive,hostile,"скулить, посмотрю"
+зря он так про бессмертный полк...,Medium,disapproving,colloquial,critical,"зря (in vain, unnecessary)"
+"надоел за 20 лет, стоющего ничего нет, только обещаем обещать, мне такой президент не нужен!",Medium,critical,emotional and informal,discontent,"надоел, стоющего ничего нет, обещаем обещать, не нужен"
+они же дети как можно детей на улице оставить.,Low,concerned,conversational,empathetic,none
+да гнать этого человека надо,Medium,dismissive,colloquial,negative,гнать
+уезжает пускай из страны вообще.,Medium,dismissive,colloquial,hostile,"уезжает, из страны"
+"семейка боярских, походу те ещё нехорошие люди.",Medium,derogatory,informal and colloquial,negative,"семейка, нехорошие люди"
+прилетели к нам грачи - москвичи!,Low,informal,casual,neutral,none
+А зачем ты тут персональный чатик устроил?,Low,informal,casual,slightly accusatory,устроил
+тексты своих выступлений ты хорошо помнишь!,Low,informal,casual and direct,neutral,none
+да лжец еще тот и кто его слушает одному богу известно,Medium,informal,derogatory,negative,лжец
+американцы не очень умные люди раз не могут сделать хорошее оружие дешевле,High,disrespectful,derogatory and judgmental,critical,не очень умные люди
+в этой группе обязательно найдётся человек с тёмной аватаркой и заданием нахамить.,Medium,informal,derogatory,critical,нахамить
+"когда только до этих людей дойдет, что эти действия называются родину продавать.",Medium,critical,informative and accusatory,disapproving,родину продавать
+админ почему сундуки не открываются,Low,inquisitive,informative and neutral,curiosity,none
+"Алло ,это полиция? Девушка ,у вас все хорошо,не звоните больше сюда.",Medium,dismissive,informative,frustration,не звоните больше
+Кому она мешала бедное животное,Low,concerned,informative and neutral,compassionate,мешала
+он все больше и больше походит на старого потрепанного жизнью,Medium,conversational,descriptive,negative,"старого, потрепанного жизнью"
+"глупец, пусть посидит, может там ему укажут на его ошибки",Medium,condescending,informal,harsh,глупец
+"а зачем сразу другая национальность? нам хватает своих. лучше бы полиция работала, а не сидела без дела",Medium,critical,colloquial and dismissive,exclusionary,"другая национальность, хватает своих, без дела"
+надо их штрафовать за такие высказывания,Medium,formal,directive,negative,"штрафовать, высказывания"
+"причина не в пришедших во власть, а в населении, которое их выбирает.",Medium,informative,formal,critical,none
+У каждого народа своих плохих хватает,Medium,neutral,informative,critical,плохих
+"да у них в думе и на должностях лица растут в геометрической прогрессии, будто едят целыми днями.",Medium,informal,sarcastic,critical,едят целыми днями (implies laziness or gluttony)
+"Он защищает только своих детей, а все остальные ему безразличны. Трибунал ему и всем его коллегам.",Medium,accusatory,informative and negative,critical,"безразличны, Трибунал"
+да странные люди только такое могли сделать!,Medium,critical,informal and judgmental,negative,"странные, только такое"
+"патриоты решили, что родина это власть!!!",Low,emphatic,assertive,patriotic,none
+У Понасенко плохо все таки с самооценкой.,Medium,informal,critical,disparaging,плохо
+гоните этих людей отсюда с англию и в европу!!,High,aggressive,informal and derogatory,hostile,"гоните, этих людей, отсюда"
+а эти люди сидят в машине.а этот человек снимает и наверное улыбается .,Low,neutral,informative,neutral,none
+да это какойто человек с кружкой кофе или чая да еще и сигарета,Low,informal,descriptive and neutral,casual,none
+"эти люди живут на другой планете , в другом измерении мы для них как инопланетяне .",Low,figurative,descriptive,detached,none
+"что это человек без чести и совести,знают все народы советского союза!",High,accusatory,derogatory,negative,без чести и совести
+сколько же тут людей не читавших и не знающих историю ...тьфу,Medium,dismissive,informal,frustration,тьфу
+"Вот и сидишь бессмыслицу пишешь. Думай перед тем, как написать",Medium,critical,informal and critical,negative,бессмыслицу
+Этим людям нечего в Магадане делать!,Medium,hostile,assertive and dismissive,negative,нечего делать
+"Так и будет дети гибнут от пьяных людей ! То бьют , то насилуют",High,emotional and alarmist,aggressive and accusatory,negative,"гибнут, пьяных, бьют, насилуют"
+Первый раз воспользовался этой неэффективной кнопкой,Low,informal,critical,negative,неэффективной
+блин в каком плохом состоянии мы находимся.,Low,frustrated,informal and expressive,negative,плохом
+", то это однозначно дизлайк.",Medium,dismissive,informative and negative,critical,дизлайк
+А если ты ударишь палкой и произойдет физическое взаимодействие этотзначит оно по кругу пошло?разумеется,Medium,questioning,informative,ambiguous,ударишь
+"ПДД написаны таким образом, чтобы уберегать людей от дтп",Low,informative,neutral and formal,protective,none
+"был талантливый и успешный комик, а потом потерял свой успех и талант",Low,neutral,informative,melancholic,потерял
+а тут опять кто-то понаписал,Medium,informal,dismissive and irritated,frustration,понаписал
+"Совка никак не может сойти с этого цикличногокруга,скоро новый нарисуется",Medium,sarcastic,colloquial,pessimistic,"Совка, не может сойти, цикличного круга"
+Ибо и геймплей и сюжет то плохой,Medium,informal,critical,negative,плохой
+"ты всё больше загоняешься, не делай себе же хуже",Medium,informal,advisory and cautionary,concern,загоняешься
+Все зубы испортили. Сделали огромную дырку. Не умеют работать,Medium,angry,informative and critical,frustration,"испортили, огромную, не умеют работать"
+"А самое ужасное, что если поставить в настройках старую дваче капчу, она вообще не работает.",Low,informal,complaining,negative,ужасное
+"Но если несётся человек с куском плитки в руке, это нормально, а то, что делает милиционер преступление",Medium,critical,conversational and opinionated,negative,преступление
+"ээ их девушек, женщин вообще не понимаю, как так можно испортить свои губы",Medium,dismissive,informal,negative,"не понимаю, испортить"
+"Просто поймал себя на мысли, что смотрю контент, созданный исключительно с целью выманивания донатов на хайпе",Medium,informal,critical,negative,"выманивания, хайпе"
+"В жизни, по описанию очевидцев, немного наглый",Low,informal,descriptive,slightly negative,наглый
+"Есть мнение, что ещё человек с излишним весом может немного набрать популярность",Medium,informative,neutral,condescending,излишним весом
+В проходящего мимо человека в мастерской? Что? Всякая всячина может отскочить в проходящего человека,Low,informal,explanatory,neutral,none
+При чём коронавирус? Почему вы не пишите что она умерла от натоптышей и мазолей они ведь тоже были,High,sarcastic and dismissive,confrontational and provocative,negative,"натоптышей, мазолей"
+"нехорошие люди, которые по разрешению вовика сделали из ,своих отделов коммерческие кооперативы-корпоративы",Medium,critical,informal,negative,"нехорошие, вовика"
+Про район Тайвань хочу напомнить. Пахнет очень плохо и всем всё равно.,Medium,critical,informative and informal,negative,"плохо, всё равно"
+"ну что поделаешь, согласна что ошиблась",Low,neutral,informal,acceptance,none
+Это недостойные с обоих сторон конфликта,Medium,critical,judgmental,negative,недостойные
+"Прайс такой ,что удовольствие можно получать совершенно бесплатно",Low,informal,casual and positive,encouraging,none
+и не было рядом настоящего мужчинв что бы разобраться в возникнувшей ситуации,Medium,dismissive,informative,critical,настоящего мужчинв
+А что его никто не вспомнил?,Low,questioning,informative,neutral,none
+"Предупреждаю, кто меня пытается вычислить и наказать, тот испытает очень большие проблеммы",Medium,threatening,direct and assertive,hostile,"наказать, испытает, большие проблеммы"
+"Да ну хватит, этот Павлов зарабатывает, не тратьте на него нервы и время. Его страничка это шедевр",Medium,informal,conversational,dismissive,"хватит, не тратьте нервы и время"
+эта фишка в западных околонаучных передачах так же часто встречается,Low,neutral,informative and neutral,casual,none
+"А им только и нужно, чтобы даром и побольше",Medium,accusatory,colloquial and critical,negative,"даром, побольше"
+которые всегда и во всем видят только плохое,Low,critical,neutral,negative,плохое
+"всем полицейским сказали досрочно проголосовать, иначе-пиши на увольнение...полицейские и им подобные могут в платформе голосовать за луку",Medium,accusatory,colloquial and critical,negative,"иначе-пиши на увольнение, полицейские и им подобные"
+И разберёмся вы пришли и мешаете,Medium,frustrated,informative and neutral,annoyed,мешаете
+"Из-за вас-настроение ноль и поведение, ну никакое...",Medium,informal,emotional and critical,negative,"ноль, никакое"
+"да уж,многих ребят посдавали бандеровцам",Medium,informal,disparaging,negative,бандеровцам
+Ничего путного для народа не делают один негатив от власти,Medium,critical,informative and opinionated,frustration,негатив
+"Я вот эту глупость творить бы не стал и если надо, то изменился бы ради общественного блага",Low,informative,formal,positive,глупость
+Просто либо воруют либо ленятся в лице директора чтобы выбить нормальные условия.,Medium,critical,informal and accusatory,negative,"воруют, ленятся"
+"Склонен ко всем формам наркозависимости, а так же к религиозному фанатизму, что по сути одно и то же",High,critical and judgmental,derogatory and dismissive,negative and disapproving,"наркозависимости, религиозному фанатизму, одно и то же"
+"В Европе зп у людей выше в 6-8 раз а цены на все в 1,5-2",Low,informative,neutral,factual,none
+"Не знаю сколько тебе, про какие времена пишешь",Low,informal,inquisitive,neutral,none
+Это у вас такой мемчик локальный?,Low,questioning,colloquial,curiosity,none
+"Враг не пройдёт. Победа будет за нами. Все народы хотят мира. А им всё неймётся, они хотят перемен",Medium,aggressive,assertive and nationalistic,defensive,"Враг, неймётся"
+Может он и норм но количество чуши было запредельным,Medium,informal,colloquial,negative,"чуши, запредельным"
+Вы не нашли в другом месте вести такие разговоры?,Medium,sarcastic,informative and conversational,dismissive,"не нашли, вести такие разговоры"
+И не держи всех за себе подобных,Medium,disapproving,informal and critical,negative,"держи, подобных"
+"Люди выходили, чтобы убрать Януковича, такого же, как Путин.",Medium,critical,informative and confrontational,disapproving,убрать
+"что отец, что сын.два авантюриста.",Medium,informal,informative and judgmental,negative critique,авантюриста
+"снимал простенько, без вебки, то есть лицо не показывал и было уже норм",Low,informal,casual,neutral,none
+А интересно как она связанная с вакциной?,Low,curious,informative and neutral,inquisitive,none
+просто для красивой картинки по телевизору,Low,informal,casual,sarcastic,none
+"у людей давление зашкаливает, от масок у многих аллергия, чихают и кашляют, а он со своим ужесточением",Medium,critical,informative and emotional,disapproving,"давление зашкаливает, аллергия, чихают, кашляют, ужесточением"
+Только количеством мы можем противостоять этим людям.,Medium,assertive,strategic and formal,defensive,"противостоять, этим людям"
+"У меня лично никаких проблем нет, я тебе сто раз сказала чтобы ты больше не общалась с Олей",Medium,authoritative,direct and commanding,frustrated,"не общалась, сто раз сказала"
+"Который раз пишут бред, сами не понимая к чему",Medium,critical,informative and dismissive,frustration,бред
+"Да, нельзя бросать мусор на улице, точно так же нельзя бросать мусор в урны",Low,informative and neutral,informative,neutral,none
+Им всё равно на страну,Medium,dismissive,informative and neutral,indifference,всё равно
+"Что-то мне кажется, гинеколог не будет своему коллеге говорить, что он глупый человек.",Medium,informal,colloquial and descriptive,slightly negative,глупый человек
+ушли и слава богу! не будем видеть и слышать Таню и её Алёнушку,Medium,dismissive,colloquial and negative,"relief, slight contempt","слава богу, не будем видеть и слышать"
+если бы ваш салон загадили вот такие нечистоплотные..ваша реакция была такая же..:-),High,sarcastic,informal and accusatory,negative,"загадили, нечистоплотные"
+вот до чего доводят драки одно только горе от этого безумия всем,Medium,informative,emotional,negative,"драки, горе, безумия"
+"Не удивлюсь, что Била смотрят в основном не из городов а из деревень",Low,informal,casual,slightly dismissive,деревень
+быстро удалили мои фото или из-под земли достану!,High,threatening,informal and aggressive,hostile,из-под земли достану
+да какие ему могут быть оправдания? ведь погиб человек из-за этого плохого человека,Medium,accusatory,informative but biased,negative,плохого
+Значит родители плохие,Medium,judgmental,blunt and direct,negative,плохие
+"Этот человек не может быть болен, у него крупное телосложение",Medium,assertive,informative,misinformed,none
+"пользуетесь тем,что в интернете таких,как ты,просто так не возьмешь",Medium,condescending,informal and confrontational,hostile,"пользуетесь, таких, как ты, не возьмешь"
+"Не вижу смысла тут переписываться, вживую бы поговорил",Low,direct,casual and informal,preference for real-life interaction,none
+"правда вам глаза колет, с такими всегда так, своё на других примеряет",Medium,accusatory,conversational and informal,hostile,"правда вам глаза колет, всегда так, примеряет"
+"это враги своей страны, за 500 евро пошли свою страну крушить, идите работать.",High,accusatory,informative and derogatory,hostile,"враги, крушить"
+Никому твой героизм не нужен,Medium,dismissive,informal and critical,negative,"Никому, не нужен"
+"Разница в том между мной, автором заметки и тобой, что мы это понимаем, а ты нет",Medium,condescending,informative and mildly confrontational,disparaging,нет
+в первую очередь нужно родителя наказывать,Medium,directive,strict and critical,punitive,наказывать
+"Фирсофу с Филатовым позвоню, скажу, что вы тут пишите",Medium,threatening,informative,intimidation,пишите
+Только я не поняла зачем он нам нужен,Low,informal,informative and neutral,confused or curious,none
+Ничего не планирует и плывет.,Low,informal,conversational and neutral,disapproving,none
+А по поводу остального не переживай,Low,reassuring,informative and neutral,positive,none
+"Особенно, если сам ничего не можешь, кроме как оскорблениями в интернете кидаться",Medium,critical,informative and accusative,negative,"ничего не можешь, оскорблениями кидаться"
+забавные вы в своей бессильной злобе,Medium,sarcastic,mocking and dismissive,derisive,"злобе, бессильной"
+прежде чем признаться в своей ошибке оглянись не окружают ли тебя глупцы,Medium,critical,advisory and judgmental,negative,глупцы
+полицейские! а вы то куда лезите?,Medium,condescending,informal and confrontational,disdainful,лезите
+"Но почитал дальше понял, нет ты действительно странный",Medium,informal,conversational and judgmental,dismissive,странный
+"А если и посмотрят то просто скажут, что он не умный",Medium,dismissive,informative and critical,negative,не умный
+"Кто сюда влепил Путина?А какую госдолжность занимает Соловьев?или для количества?очень слабая провокация,очень!!",Medium,sarcastic,informal and confrontational,critical,"влепил, слабая провокация"
+Плохой кот. Как хозяин позволяет обижать малыша?,Medium,judgmental,colloquial,critical,"плохой, обижать"
+"кое как с пробуксовкой , с трудом находишь этот дом( хорошо еще если на нем номер есть",Low,frustrated,informative and informal,negative,"с пробуксовкой, с трудом"
+Сидела бы на своей пенсии на старости лет,Medium,condescending,informal,disrespectful,"старости, пенсии"
+вот с кадырова и нужно начать,Medium,directive,informative,critical,нужно начать
+их надо лишить родительских прав,Medium,assertive,informative and judgmental,negative,лишить родительских прав
+"Ко мне никто не приставал, кроме фанатов 58.50 22",Low,casual,informative and neutral,detached,приставал
+"Сначала отца бы сфотографировал, потом мать, а потом и ребенка бы сфотографировал.",Low,neutral,informative,casual,none
+А вы остальные страны ещё до нас не доростете,Medium,condescending,informative and informal,negative,не доростете
+"Надо, блджад, читать чуть дальше заголовка",Medium,informal and frustrated,colloquial and aggressive,frustration,блджад
+а тут далеко и ходить не нужно!!!!!!!такое сотворить могло только бесперспективное поколение(ch) (ch) (ch) (ch) *-) *-) *-) *-),High,derogatory,informal and offensive,negative,бесперспективное поколение
+А!занервничал!значит я в цель попал,Medium,taunting,informal and provocative,mocking,занервничал
